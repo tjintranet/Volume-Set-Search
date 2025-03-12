@@ -105,11 +105,25 @@
     "volume_titles": "Hbk of Laser Technology Applications V1 | Hbk of Laser Technology Applications V2 | Hbk of Laser Technology Applications V3 | Hbk of Laser Technology Applications V4"
   },
   {
+    "set_isbn": "9780367689728",
+    "set_isbn_title": "Handbook of Superconductivity Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367687670, 9780367689087, 9780367689209",
+    "volume_titles": "Handbook of Superconductivity | Handbook of Superconductivity | Handbook of Superconductivity"
+  },
+  {
     "set_isbn": "9780367704797",
     "set_isbn_title": "Handbook of Biodiesel & Petrodiesel Fuels Vol Set",
     "volume_count": 3,
     "associated_volumes": "9780367704940, 9780367705039, 9780367708887",
     "volume_titles": "Biodiesel Fuels | Biodiesel Fuels Based Edible Nonedible | Petrodiesel Fuels"
+  },
+  {
+    "set_isbn": "9780367705848",
+    "set_isbn_title": "Microbial Based Land Restoration Hbk Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367705855, 9780367705862",
+    "volume_titles": "Microbial Based Land Restoration Hbk V2 | Microbial Based Land Restoration Hbk V1"
   },
   {
     "set_isbn": "9780367712723",
@@ -1568,6 +1582,20 @@
     "volume_titles": "Chinese Narratology I | Chinese Narratology II"
   },
   {
+    "set_isbn": "9781032579160",
+    "set_isbn_title": "Chinese Narratology Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032579146, 9781032579153",
+    "volume_titles": "Chinese Narratology I | Chinese Narratology II"
+  },
+  {
+    "set_isbn": "9781032588537",
+    "set_isbn_title": "Control of Heavy Metals in the Environment Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032588490, 9781032588513, 9781032891842",
+    "volume_titles": "Control of Heavy Metals in the Environment Volume 1 | Control of Heavy Metals in the Environment | Control of Heavy Metals in the Environment"
+  },
+  {
     "set_isbn": "9781032590677",
     "set_isbn_title": "History of Chinese Phonology Vol Set",
     "volume_count": 2,
@@ -1706,6 +1734,13 @@
     "volume_count": 6,
     "associated_volumes": "9781032728209, 9781032732596, 9781032732732, 9781032735573, 9781032735993, 9781032744810",
     "volume_titles": "Water Planning in Britain | Networks for Water Policy | Water Resources in Arid Realm | British Rivers | British Seas | Life Before Drought"
+  },
+  {
+    "set_isbn": "9781032746302",
+    "set_isbn_title": "Equipment Intelligent Operation and Maintenance Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032746050, 9781032746111",
+    "volume_titles": "Equipment Intelligent Operation & Maintenance | Equipment Intelligent Operation & Maintenance"
   },
   {
     "set_isbn": "9781032750842",
@@ -1869,6 +1904,13 @@
     "volume_titles": "Radioactivity Vol 1 | Radioactivity Vol 2"
   },
   {
+    "set_isbn": "9781032906652",
+    "set_isbn_title": "Hybrid and Advanced Technologies Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032902548, 9781032906690",
+    "volume_titles": "Hybrid & Advanced Technologies | Hybrid & Advanced Technologies"
+  },
+  {
     "set_isbn": "9781032911571",
     "set_isbn_title": "Computational Methods in Science & Technology Vol Set",
     "volume_count": 2,
@@ -1953,11 +1995,25 @@
     "volume_titles": "Cybersecurity Body of Knowledge | Implementing Cybersecurity | Supply Chain Risk Management | How to Build a Cyber-Resilient Organization"
   },
   {
+    "set_isbn": "9781032950129",
+    "set_isbn_title": "Social Continuity and Rupture in Rural China Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032944890, 9781032950150",
+    "volume_titles": "Social Continuity & Rupture in Rural China I | Social Continuity & Rupture in Rural China II"
+  },
+  {
     "set_isbn": "9781032963976",
     "set_isbn_title": "Data Science & Exploration in AI Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032737393, 9781032963907",
     "volume_titles": "Data Science & Exploration in AI Vol 1 | Data Science & Exploration in AI Vol 2"
+  },
+  {
+    "set_isbn": "9781032976402",
+    "set_isbn_title": "Chinese Social Media Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032916545, 9781032916552",
+    "volume_titles": "Chinese Social Media I | Chinese Social Media II"
   },
   {
     "set_isbn": "9781032993225",
@@ -1972,6 +2028,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032447193, 9781482231618",
     "volume_titles": "Web Hacking Arsenal | Ethical Hacking & Penetration Testing Guide"
+  },
+  {
+    "set_isbn": "9781041005445",
+    "set_isbn_title": "Visual Culture in Contemporary China Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032541402, 9781032815916",
+    "volume_titles": "Visual Culture in Contemporary China I | Visual Culture in Contemporary China II"
   },
   {
     "set_isbn": "9781041035039",
@@ -3603,6 +3666,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774917114, 9781774917145",
     "volume_titles": "Metals in Medicine Vol 1 | Metals in Medicine Vol 2"
+  },
+  {
+    "set_isbn": "9781774918449",
+    "set_isbn_title": "Neuro-Nutraceuticals & Drug Discovery and Delivery Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774919422, 9781774919446",
+    "volume_titles": "Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei | Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei"
   },
   {
     "set_isbn": "9781846195884",
