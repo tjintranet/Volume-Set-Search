@@ -1407,11 +1407,25 @@
     "volume_titles": "Heat Exchangers - V1 | Heat Exchangers - V2 | Heat Exchangers - V3"
   },
   {
+    "set_isbn": "9781032408354",
+    "set_isbn_title": "Functional Foods & Nutraceuticals Chronic Diseases Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032114774, 9781032351711",
+    "volume_titles": "Applications of Functional Foods | Molecular Mechanisms Action Funct Foods V2"
+  },
+  {
     "set_isbn": "9781032430713",
     "set_isbn_title": "Brief History of Chinese Language Vol Set",
     "volume_count": 8,
     "associated_volumes": "9781032381107, 9781032381114, 9781032381121, 9781032430652, 9781032430669, 9781032430676, 9781032430683, 9781032430690",
     "volume_titles": "Brief History of Chinese Language I | Brief History of Chinese Language II | Brief History of Chinese Language III | Brief History of Chinese Language IV | Brief History of Chinese Language VIII | Brief History of Chinese Language V | Brief History of Chinese Language VI | Brief History of Chinese Language VII"
+  },
+  {
+    "set_isbn": "9781032434049",
+    "set_isbn_title": "Hbk of Sustainable & Integrative Manufacturing Tec Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032434087, 9781032434124",
+    "volume_titles": "Manufacturing Engineering & Materials Science | Manufacturing Technologies & Production Systems"
   },
   {
     "set_isbn": "9781032461021",
@@ -1636,6 +1650,13 @@
     "volume_count": 3,
     "associated_volumes": "9781774639252, 9781774639535, 9781774639542",
     "volume_titles": "Innovative Approaches Diagnosis Crop Diseases V1 | Innovative Approaches Diagnosis Crop Diseases V2 | Innovative Approaches Diagnosis Crop Diseases V3"
+  },
+  {
+    "set_isbn": "9781032646046",
+    "set_isbn_title": "Project Management for the Oil and Gas Industry Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032646954, 9781032647012",
+    "volume_titles": "Project Management for the Oil & Gas Industry - Systems | Project Management for the Oil & Gas Industry - Agile"
   },
   {
     "set_isbn": "9781032658599",
@@ -1988,6 +2009,20 @@
     "volume_titles": "Plant Stress Tolerance | Plant Stress Tolerance"
   },
   {
+    "set_isbn": "9781032944210",
+    "set_isbn_title": "Signals and Systems A MATLAB Integrated Approach Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032675237, 9781032943909",
+    "volume_titles": "Continuous-Time Signals & Systems | Discrete-Time Signals & Systems"
+  },
+  {
+    "set_isbn": "9781032944968",
+    "set_isbn_title": "Mechanical and Solid-Fluid Operations Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032944982, 9781032945484, 9781032946634",
+    "volume_titles": "Mechanical & Solid-Fluid Operations - Characteristics | Mechanical & Solid-Fluid Operations - Separation | Mechanical & Solid-Fluid Operations - Flow Past"
+  },
+  {
     "set_isbn": "9781032946627",
     "set_isbn_title": "Implementing Cybersecurity Vol Set",
     "volume_count": 4,
@@ -2037,11 +2072,39 @@
     "volume_titles": "Visual Culture in Contemporary China I | Visual Culture in Contemporary China II"
   },
   {
+    "set_isbn": "9781041019305",
+    "set_isbn_title": "Psychoanalysis Attachment & Relationship with God Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032913704, 9781032944098",
+    "volume_titles": "Using Psychoanalytic Techniques to Transform the Attachmen | Practical Applications of Transforming the Attachment Rela"
+  },
+  {
+    "set_isbn": "9781041022206",
+    "set_isbn_title": "Rout Library Edns: Medieval Culture Soc & Religion Vol Set",
+    "volume_count": 18,
+    "associated_volumes": "9781032984117, 9781041000990, 9781041001355, 9781041003243, 9781041003434, 9781041004134, 9781041006206, 9781041006305, 9781041006886, 9781041007166, 9781041007821, 9781041010104, 9781041010753, 9781041010838, 9781041012658, 9781041013075, 9781041019657, 9781041021629",
+    "volume_titles": "The Hundred & The Hundred Rolls | Documents Illustrating the History of Civilization in Medi | Categories of Medieval Culture | Feudalism | The Holy Roman Republic | Lordship & Feudalism in the Middle Ages | Traditions of Medieval English Drama | The Luminous Vision | Political Thought in Medieval Times | Geography in the Middle Ages | The Mediaeval Universities | Medieval Romance | Medieval Southampton | China & Africa in the Middle Ages | Popes & Princes 1417–1517 | English Medieval Theatre | English Wayfaring Life in the Middle Ages | Medieval Song"
+  },
+  {
+    "set_isbn": "9781041030232",
+    "set_isbn_title": "J. T. Hankinson on Sport Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781041022435, 9781041022626, 9781041022749, 9781041023425, 9781041023616, 9781041023791",
+    "volume_titles": "Cricket for Schools | Rugby Football for Schools | Hockey for Schools | Soccer for Schools | Squash Rackets | Lawn Tennis"
+  },
+  {
     "set_isbn": "9781041035039",
     "set_isbn_title": "Change Agent Auditor Essentials Op Auditing Vol Set",
     "volume_count": 3,
     "associated_volumes": "9780367771423, 9781032345796, 9781138036918",
     "volume_titles": "Operational Auditing | Change Agent | Auditor Essentials"
+  },
+  {
+    "set_isbn": "9781041044727",
+    "set_isbn_title": "Psychoanalysis Attachment & Relationship with God Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032913711, 9781032944104",
+    "volume_titles": "Using Psychoanalytic Techniques to Transform the Attachmen | Practical Applications of Transforming the Attachment Rela"
   },
   {
     "set_isbn": "9781138014244",
@@ -2443,6 +2506,13 @@
     "volume_titles": "A Theory of Group Structures V1 | A Theory of Group Structures V2"
   },
   {
+    "set_isbn": "9781138661356",
+    "set_isbn_title": "Economic Development of Africa 1880–1939 Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9781032915494, 9781032915562, 9781138113176, 9781138113183, 9781138118133",
+    "volume_titles": "Economic Development of Africa 1880–1939 vol 1 | Economic Development of Africa 1880–1939 vol 2 | Economic Development of Africa 1880–1939 vol 3 | Economic Development of Africa 1880–1939 vol 5 | Economic Development of Africa 1880-1939 vol 4"
+  },
+  {
     "set_isbn": "9781138663954",
     "set_isbn_title": "Brics - 5 VOL SET",
     "volume_count": 5,
@@ -2756,6 +2826,13 @@
     "volume_count": 23,
     "associated_volumes": "9781138885370, 9781138885509, 9781138885547, 9781138885943, 9781138886254, 9781138886414, 9781138886803, 9781138886964, 9781138887749, 9781138887930, 9781138888036, 9781138888210, 9781138888500, 9781138888524, 9781138888739, 9781138888876, 9781138890176, 9781138890930, 9781138890985, 9781138891036, 9781138891074, 9781138892569, 9781138900608",
     "volume_titles": "The Philosophy of Marx | The Ethical Foundations of Marxism Rle Marxism | Karl Marx and Friedrich Engels Rle Marxism | Marx and the New Individual Rle Marxism | Marxism Class Analysis and Socialist Pluralism | Marxism and Open Mind | Marxism in Asia Rle Marxism | Marxs Critical Dialectical Procedure Rle Marxism | Marxs Construction of Social Theory Rle Marxism | Marxs Theory of Ideology Rle Marxism | Karl Marx and the Philosophy of Praxis Rle Marxism | Marx Engels and National Movements Rle Marxism | Marxs Grundrisse and Hegels Logic Rle Marxism | Marxs Proletariat Rle Marxism | The Making of Marxs Critical Theory Rle Marxism | Marxism - An Historical | Karl Marx in His Earlier Writings Rle Marxism | Kritsman and the Agrarian Marxists Rle Marxism | Before the Revisionist Controversy Rle Marxism | The Communist Ideal in Hegel and Marx Rle Marxism | Marxisms Retreat From Africa Rle Marxism | Karl Marx - Man and Fighter Rle Marxism | Jameson Althusser Marx Rle Marxism"
+  },
+  {
+    "set_isbn": "9781138882775",
+    "set_isbn_title": "Proceedings of the Winter 1990 International Joint Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367250591, 9780367250638",
+    "volume_titles": "Proceedings of the Winter 1990 International Joint Vol 1 | Proceedings of the Winter 1990 International Joint Vol 2"
   },
   {
     "set_isbn": "9781138889910",
