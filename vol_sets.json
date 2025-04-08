@@ -133,6 +133,13 @@
     "volume_titles": "Environmental Compliance Hbk V1 | Environmental Compliance Hbk V2 | Environmental Compliance Hbk V3 | Environmental Compliance Hbk V4"
   },
   {
+    "set_isbn": "9780367712730",
+    "set_isbn_title": "Environmental Compliance Hbk Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367712747, 9780367712754, 9780367712761, 9780367712778",
+    "volume_titles": "Environmental Compliance Hbk Vol 3 | Environmental Compliance Hbk Vol 2 | Environmental Compliance Hbk Vol 4 | Environmental Compliance Hbk Vol 1"
+  },
+  {
     "set_isbn": "9780367752422",
     "set_isbn_title": "Vertebrate Cranial Placodes Vol Set",
     "volume_count": 2,
@@ -2072,6 +2079,13 @@
     "volume_titles": "Visual Culture in Contemporary China I | Visual Culture in Contemporary China II"
   },
   {
+    "set_isbn": "9781041018063",
+    "set_isbn_title": "Primary Socialization Language and Education Vol Set",
+    "volume_count": 7,
+    "associated_volumes": "9781032993935, 9781041008019, 9781041008460, 9781041008897, 9781041010517, 9781041010586, 9781041013884",
+    "volume_titles": "Social Class Language & Communication | Code in Context | Social Control & Socialization | Talk Reform | A Question of Answers | A Question of Answers | Selection & Control"
+  },
+  {
     "set_isbn": "9781041019305",
     "set_isbn_title": "Psychoanalysis Attachment & Relationship with God Vol Set",
     "volume_count": 2,
@@ -2105,6 +2119,41 @@
     "volume_count": 2,
     "associated_volumes": "9781032913711, 9781032944104",
     "volume_titles": "Using Psychoanalytic Techniques to Transform the Attachmen | Practical Applications of Transforming the Attachment Rela"
+  },
+  {
+    "set_isbn": "9781041095545",
+    "set_isbn_title": "Ironwill 360° Leadership and Finding Your Granite Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032034119, 9781032854229",
+    "volume_titles": "Finding Your Granite | Ironwill 360° Leadership"
+  },
+  {
+    "set_isbn": "9781041095569",
+    "set_isbn_title": "Leading Dig Workforce & Security Leader's Comm Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032074764, 9781032323732",
+    "volume_titles": "The Security Leader’s Communication Playbook | Leading Digital Workforce"
+  },
+  {
+    "set_isbn": "9781041110644",
+    "set_isbn_title": "Ten-Book Bundle on Leadership Vol Set",
+    "volume_count": 10,
+    "associated_volumes": "9781032034119, 9781032039794, 9781032057736, 9781032074764, 9781032075372, 9781032323732, 9781032345796, 9781032402215, 9781032854229, 9781032863627",
+    "volume_titles": "Finding Your Granite | Modern Management & Leadership | Say What - Communicate with Tact & Impact | The Security Leader’s Communication Playbook | Global Audit Leadership | Leading Digital Workforce | Change Agent | CISO Journey | Ironwill 360° Leadership | Team Intelligence"
+  },
+  {
+    "set_isbn": "9781041110668",
+    "set_isbn_title": "Ten-Book Bundle on Cybersecurity Vol Set",
+    "volume_count": 10,
+    "associated_volumes": "9781032034096, 9781032062785, 9781032074764, 9781032194363, 9781032263892, 9781032299273, 9781032323732, 9781032761633, 9781032762074, 9781032912554",
+    "volume_titles": "Teaching Cybersecurity | Evidence-Based Cybersecurity | The Security Leader’s Communication Playbook | Cybersecurity Operations & Fusion Centers | Security Risk Management Driving Force Operational | Why Cisos Fail | Leading Digital Workforce | The Shortest Hour | The CISO Playbook | Navigating the Cyber Maze"
+  },
+  {
+    "set_isbn": "9781041110675",
+    "set_isbn_title": "Two-Book Set: Safeguarding & Privacy Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032125473, 9781032487700",
+    "volume_titles": "Privacy in Practice | Safeguarding the Future"
   },
   {
     "set_isbn": "9781138014244",
