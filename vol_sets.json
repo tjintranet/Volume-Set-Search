@@ -2072,6 +2072,13 @@
     "volume_titles": "Web Hacking Arsenal | Ethical Hacking & Penetration Testing Guide"
   },
   {
+    "set_isbn": "9781041004400",
+    "set_isbn_title": "Rural Control in Imperial China Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032671819, 9781041004448",
+    "volume_titles": "Rural Control in Imperial China I | Rural Control in Imperial China II"
+  },
+  {
     "set_isbn": "9781041005445",
     "set_isbn_title": "Visual Culture in Contemporary China Vol Set",
     "volume_count": 2,
@@ -2140,6 +2147,13 @@
     "volume_count": 10,
     "associated_volumes": "9781032034119, 9781032039794, 9781032057736, 9781032074764, 9781032075372, 9781032323732, 9781032345796, 9781032402215, 9781032854229, 9781032863627",
     "volume_titles": "Finding Your Granite | Modern Management & Leadership | Say What - Communicate with Tact & Impact | The Security Leader’s Communication Playbook | Global Audit Leadership | Leading Digital Workforce | Change Agent | CISO Journey | Ironwill 360° Leadership | Team Intelligence"
+  },
+  {
+    "set_isbn": "9781041110651",
+    "set_isbn_title": "Ten-Book Bundle on Audit Vol Set",
+    "volume_count": 10,
+    "associated_volumes": "9780367551742, 9780367568009, 9781032042909, 9781032057736, 9781032345796, 9781032664873, 9781032727530, 9781032886701, 9781138036918, 9781498738491",
+    "volume_titles": "Complete Guide for Cisa Examination | Leading the Internal Audit Function | Rising From the Mailroom to Boardroom | Say What - Communicate with Tact & Impact | Change Agent | The Closing of the Auditor’s Mind? | Radical Reporting | The Gardener of Governance | Auditor Essentials | Mastering Five Tiers of Audit Competency"
   },
   {
     "set_isbn": "9781041110668",
