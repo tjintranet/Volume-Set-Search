@@ -1470,6 +1470,13 @@
     "volume_titles": "Geotechnics of Roads Advanced Analysis & Modeling | Geotechnics of Roads - Fundamentals"
   },
   {
+    "set_isbn": "9781032474441",
+    "set_isbn_title": "The Handbook of Natural Resources Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781032474380, 9781032474397, 9781032474403, 9781032474410, 9781032474427, 9781032474434",
+    "volume_titles": "Wetlands and Habitats | Fresh Water and Watersheds | Coastal and Marine Environments | Atmosphere and Climate | Terrestrial Ecosystems & Biodiversity | Landscape and Land Capacity"
+  },
+  {
     "set_isbn": "9781032491585",
     "set_isbn_title": "Gauge Theories Particle Physics 40th Vol Set",
     "volume_count": 2,
