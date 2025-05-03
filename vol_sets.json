@@ -3605,6 +3605,13 @@
     "volume_titles": "Encyclopedia of Criminology & Deviant Behaviour I | Encyclopedia of Criminology & Deviant Behaviour II | Encyclopedia of Criminology & Deviant Behaviour III | Encyclopedia of Criminology & Deviant Behaviour IV"
   },
   {
+    "set_isbn": "9781579227708",
+    "set_isbn_title": "Understanding College & University Organization Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781579227685, 9781579227692",
+    "volume_titles": "Understanding College & University Organization Vol 1 | Understanding College & University Organization Vol 2"
+  },
+  {
     "set_isbn": "9781579580094",
     "set_isbn_title": "Encyclopedia of Comparative Iconography Vol Set",
     "volume_count": 2,
