@@ -105,6 +105,13 @@
     "volume_titles": "Hbk of Laser Technology Applications V1 | Hbk of Laser Technology Applications V2 | Hbk of Laser Technology Applications V3 | Hbk of Laser Technology Applications V4"
   },
   {
+    "set_isbn": "9780367655747",
+    "set_isbn_title": "Active Control of Noise Vibration Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367655778, 9780367655785",
+    "volume_titles": "Active Control of Noise Vibration V1 | Active Control of Noise Vibration V2"
+  },
+  {
     "set_isbn": "9780367689728",
     "set_isbn_title": "Handbook of Superconductivity Vol Set",
     "volume_count": 3,
