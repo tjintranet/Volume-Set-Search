@@ -54,20 +54,36 @@ function searchISBN(isbn) {
     
     let resultHTML = '';
     if (result) {
-        const volumeTitles = result.volume_titles.split(' | ').map(title => 
-            `<li class="list-group-item">${title}</li>`
-        ).join('');
+        // Split volume titles
+        const volumeTitles = result.volume_titles.split(' | ');
+        
+        // Split associated ISBNs - remove spaces and split by commas
+        const isbns = result.associated_volumes.split(',').map(isbn => isbn.trim());
+        
+        // Create table rows, one for each ISBN-title pair
+        const volumeRows = isbns.map((isbn, index) => {
+            // Get the corresponding title (if available)
+            const title = index < volumeTitles.length ? volumeTitles[index] : 'Unknown Title';
+            
+            return `
+                <tr>
+                    <td class="fw-bold" style="width: 175px;">${isbn}</td>
+                    <td>${title}</td>
+                </tr>
+            `;
+        }).join('');
 
         resultHTML = `
             <div class="alert alert-success mb-0">
                 <p class="mb-2"><strong>Set Title:</strong> ${result.set_isbn_title}</p>
                 <p class="mb-2"><strong>Volume Count:</strong> ${result.volume_count}</p>
-                <p class="mb-2"><strong>Associated ISBNs:</strong> ${result.associated_volumes}</p>
                 <div class="mt-3">
                     <strong>Volume Titles:</strong>
-                    <ul class="list-group mt-2">
-                        ${volumeTitles}
-                    </ul>
+                    <table class="table table-striped table-bordered mt-2">
+                        <tbody>
+                            ${volumeRows}
+                        </tbody>
+                    </table>
                 </div>
             </div>
         `;
