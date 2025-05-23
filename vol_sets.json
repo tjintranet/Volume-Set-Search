@@ -1330,6 +1330,13 @@
     "volume_titles": "Botanical Gardens Plant Conservation V2 | Botanical Gardens Plant Conservation V1 | Botanical Gardens Plant Conservation V3"
   },
   {
+    "set_isbn": "9781032287720",
+    "set_isbn_title": "Phylogenetic Analysis of Morphological Data Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367420277, 9781032114859",
+    "volume_titles": "Refining Phylogenetic Analyses | From Observations Optimal Phylogenetic Trees V1"
+  },
+  {
     "set_isbn": "9781032287737",
     "set_isbn_title": "Phylogenetic Analysis of Morphological Data Vol Set",
     "volume_count": 2,
@@ -1904,6 +1911,13 @@
     "volume_titles": "Environmental Perspectives | Environmental Policy Assessment & Communication | New Directions in Environmental Participation | Architecture Ritual Practice & Co-determination in the Sw | Vernacular Architecture | On the Aesthetics of Architecture | Environmental Psychology in Europe | Forms of Dominance | Tradition Location & Community | The Meaning & Use of Housing | Housing | The Home | Placemaking | Aesthetics Well-being & Health"
   },
   {
+    "set_isbn": "9781032869674",
+    "set_isbn_title": "Intelligent Computing & Communication Techniques Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032869605, 9781032869650, 9781041064954",
+    "volume_titles": "Intelligent Computing & Communication Techniques Vol 1 | Intelligent Computing & Communication Techniques Vol 2 | Intelligent Computing & Communication Techniques Vol 3"
+  },
+  {
     "set_isbn": "9781032872162",
     "set_isbn_title": "Routledge Library Editions: Women in Society",
     "volume_count": 20,
@@ -2154,6 +2168,20 @@
     "volume_count": 2,
     "associated_volumes": "9781032913711, 9781032944104",
     "volume_titles": "Using Psychoanalytic Techniques to Transform the Attachmen | Practical Applications of Transforming the Attachment Rela"
+  },
+  {
+    "set_isbn": "9781041090267",
+    "set_isbn_title": "Descriptosaurus Story Writing 4 Book Bundle Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781138858695, 9781138858718, 9781138858732, 9781138858756",
+    "volume_titles": "Descriptosaurus - Action & Adventure | Descriptosaurus - Myths & Legends | Descriptosaurus - Ghost Stories | Descriptosaurus - Fantasy"
+  },
+  {
+    "set_isbn": "9781041091325",
+    "set_isbn_title": "Todd Whitaker Great Teachers 4 Book Bundle Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367344641, 9780367550004, 9781032281247, 9781138552319",
+    "volume_titles": "What Great Teachers Do Differently | Study Guide - What Great Teachers Do Differently | Your First Year | Classroom Management From the Ground Up"
   },
   {
     "set_isbn": "9781041095545",
