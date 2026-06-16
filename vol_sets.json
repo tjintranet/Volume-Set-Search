@@ -1666,6 +1666,20 @@
     "volume_titles": "The Cambridge History of Arthurian Literature & Culture Vol 1 | The Cambridge History of Arthurian Literature & Culture Vol 2"
   },
   {
+    "set_isbn": "9781009202022",
+    "set_isbn_title": "New Cambridge History of the English Language 7 Vols Set",
+    "volume_count": 7,
+    "associated_volumes": "9781009205450, 9781009205689, 9781009205764, 9781009205825, 9781009205863, 9781009206204, 9781009748179",
+    "volume_titles": "The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language"
+  },
+  {
+    "set_isbn": "9781009326452",
+    "set_isbn_title": "A Commentary on Ovid's Metamorphoses 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521895798, 9780521895804, 9780521895811",
+    "volume_titles": "A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses"
+  },
+  {
     "set_isbn": "9781009500180",
     "set_isbn_title": "Studies in Greek Literature Vol Set",
     "volume_count": 2,
@@ -3591,6 +3605,13 @@
     "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
   },
   {
+    "set_isbn": "9781107459304",
+    "set_isbn_title": "The Political Writings of Alexander Hamilton 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108434973, 9781108434980",
+    "volume_titles": "The Political Writings of Alexander Hamilton | The Political Writings of Alexander Hamilton"
+  },
+  {
     "set_isbn": "9781108011624",
     "set_isbn_title": "The Chronicle of Peru 2 Vol Set",
     "volume_count": 2,
@@ -3647,6 +3668,13 @@
     "volume_titles": "The Cambridge History of the Gothic | The Cambridge History of the Gothic | The Cambridge History of the Gothic"
   },
   {
+    "set_isbn": "9781108677462",
+    "set_isbn_title": "Cambridge History of Modern European Thought 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107097759, 9781107097780",
+    "volume_titles": "The Cambridge History of Modern European Thought | The Cambridge History of Modern European Thought"
+  },
+  {
     "set_isbn": "9781108680950",
     "set_isbn_title": "The Cambridge History of the Papacy Vol Set",
     "volume_count": 3,
@@ -3659,6 +3687,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108703123, 9781108703130",
     "volume_titles": "History of Religions Ancient World Vol 2 | History of Religions Ancient World Vol 1"
+  },
+  {
+    "set_isbn": "9781108753500",
+    "set_isbn_title": "Roman Republican Coinage 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108718820, 9781108718837",
+    "volume_titles": "Roman Republican Coinage | Roman Republican Coinage"
   },
   {
     "set_isbn": "9781108759731",
