@@ -1449,6 +1449,13 @@
     "volume_titles": "Russian Emb Georgian Kings 1589-1605 - V2 | Russian Emb Georgian Kings 1589-1605 - V1"
   },
   {
+    "set_isbn": "9780521243773",
+    "set_isbn_title": "The Cambridge History of Judaism Vol 3 (Set of 2 vols)",
+    "volume_count": 2,
+    "associated_volumes": "9781107071834, 9781107071872",
+    "volume_titles": "The Cambridge History of Judaism (Vol3 P1) | The Cambridge History of Judaism (Vol3 P2)"
+  },
+  {
     "set_isbn": "9780700715299",
     "set_isbn_title": "The Vendanta-Sutras Vol Set",
     "volume_count": 2,
@@ -3638,6 +3645,13 @@
     "volume_count": 3,
     "associated_volumes": "9781108417662, 9781108417679, 9781108424370",
     "volume_titles": "The Cambridge History of the Napoleonic Wars | The Cambridge History of the Napoleonic Wars v3 | The Cambridge History of the Napoleonic Wars v1"
+  },
+  {
+    "set_isbn": "9781108290784",
+    "set_isbn_title": "Equivalents of the Riemann Hypothesis (Set of 2 vols)",
+    "volume_count": 2,
+    "associated_volumes": "9781107197046, 9781107197121",
+    "volume_titles": "Equivalents of the Riemann Hypothesis V1 | Equivalents of the Riemann Hypothesis V2"
   },
   {
     "set_isbn": "9781108415088",
