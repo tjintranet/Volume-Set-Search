@@ -1449,11 +1449,32 @@
     "volume_titles": "Russian Emb Georgian Kings 1589-1605 - V2 | Russian Emb Georgian Kings 1589-1605 - V1"
   },
   {
+    "set_isbn": "9780521141482",
+    "set_isbn_title": "A Hist of Indian Phil 5 Vols set",
+    "volume_count": 5,
+    "associated_volumes": "9780521116299, 9780521116336, 9780521116367, 9780521116404, 9780521116435",
+    "volume_titles": "History Indian Philosophy v1 | History Indian Philosophy v2 | History Indian Philosophy v3 | History Indian Philosophy v4 | History Indian Philosophy v5"
+  },
+  {
     "set_isbn": "9780521243773",
     "set_isbn_title": "The Cambridge History of Judaism Vol 3 (Set of 2 vols)",
     "volume_count": 2,
     "associated_volumes": "9781107071834, 9781107071872",
     "volume_titles": "The Cambridge History of Judaism (Vol3 P1) | The Cambridge History of Judaism (Vol3 P2)"
+  },
+  {
+    "set_isbn": "9780521280884",
+    "set_isbn_title": "Cambridge History of 18th Century Philosophy 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107616868, 9781107625075",
+    "volume_titles": "The Cambridge History of Eighteenth-Century Philosophy | The Cambridge History of Eighteenth-Century Philosophy Vol"
+  },
+  {
+    "set_isbn": "9780521670562",
+    "set_isbn_title": "The Quantum Theory of Fields 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521670531, 9780521670548, 9780521670555",
+    "volume_titles": "The Quantum Theory of Fields v1 | The Quantum Theory of Fields v2 | The Quantum Theory of Fields v3"
   },
   {
     "set_isbn": "9780700715299",
@@ -1678,6 +1699,13 @@
     "volume_count": 7,
     "associated_volumes": "9781009205450, 9781009205689, 9781009205764, 9781009205825, 9781009205863, 9781009206204, 9781009748179",
     "volume_titles": "The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language | The New Cambridge History of the English Language"
+  },
+  {
+    "set_isbn": "9781009286091",
+    "set_isbn_title": "The New Documents in Mycenaean Greek 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521838122, 9780521838139",
+    "volume_titles": "The New Documents in Mycenaean Greek | The New Documents in Mycenaean Greek"
   },
   {
     "set_isbn": "9781009326452",
@@ -3626,6 +3654,20 @@
     "volume_titles": "The Political Writings of Alexander Hamilton | The Political Writings of Alexander Hamilton"
   },
   {
+    "set_isbn": "9781107497115",
+    "set_isbn_title": "The Cambridge History of British Theatre 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107497078, 9781107497085, 9781107497092",
+    "volume_titles": "The Cambridge History of British Theatre | The Cambridge History of British Theatre | The Cambridge History of British Theatre"
+  },
+  {
+    "set_isbn": "9781107602328",
+    "set_isbn_title": "The Cambridge History of the Cold War 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107602298, 9781107602304, 9781107602311",
+    "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
+  },
+  {
     "set_isbn": "9781108011624",
     "set_isbn_title": "The Chronicle of Peru 2 Vol Set",
     "volume_count": 2,
@@ -3640,11 +3682,25 @@
     "volume_titles": "The Saxons in England Vol 1 | The Saxons in England Vol 2"
   },
   {
+    "set_isbn": "9781108060301",
+    "set_isbn_title": "A System of Moral Philosophy 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108060288, 9781108060295",
+    "volume_titles": "A System of Moral Philosophy | A System of Moral Philosophy"
+  },
+  {
     "set_isbn": "9781108226912",
     "set_isbn_title": "The Cambridge History of the Napoleonic Wars  3 vols set",
     "volume_count": 3,
     "associated_volumes": "9781108417662, 9781108417679, 9781108424370",
     "volume_titles": "The Cambridge History of the Napoleonic Wars | The Cambridge History of the Napoleonic Wars v3 | The Cambridge History of the Napoleonic Wars v1"
+  },
+  {
+    "set_isbn": "9781108227254",
+    "set_isbn_title": "Advances in Economics and Econometrics 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108400008, 9781108400022",
+    "volume_titles": "Advances in Economics & Econometrics | Advances in Economics & Econometrics"
   },
   {
     "set_isbn": "9781108290784",
@@ -3659,6 +3715,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108476553, 9781108699044",
     "volume_titles": "The Holocaust & New World Slavery v1 | The Holocaust & New World Slavery v2"
+  },
+  {
+    "set_isbn": "9781108429306",
+    "set_isbn_title": "Cambridge HB of Environmental Sociology 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108429320, 9781108429337",
+    "volume_titles": "The Cambridge Handbook of Environmental Sociology | The Cambridge Handbook of Environmental Sociology"
   },
   {
     "set_isbn": "9781108496629",
@@ -3708,6 +3771,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108703123, 9781108703130",
     "volume_titles": "History of Religions Ancient World Vol 2 | History of Religions Ancient World Vol 1"
+  },
+  {
+    "set_isbn": "9781108709439",
+    "set_isbn_title": "Series & Products in the Development of Maths 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108709378, 9781108709453",
+    "volume_titles": "Series & Products in the Development of Mathematics | Series & Products in the Development of Mathematics"
   },
   {
     "set_isbn": "9781108753500",
