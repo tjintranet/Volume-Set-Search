@@ -1470,6 +1470,13 @@
     "volume_titles": "The Cambridge History of Eighteenth-Century Philosophy | The Cambridge History of Eighteenth-Century Philosophy Vol"
   },
   {
+    "set_isbn": "9780521608428",
+    "set_isbn_title": "The Texts of Early Greek Philosophy 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521737630, 9780521737647",
+    "volume_titles": "The Texts of Early Greek Philosophy | The Texts of Early Greek Philosophy"
+  },
+  {
     "set_isbn": "9780521670562",
     "set_isbn_title": "The Quantum Theory of Fields 3 Vols Set",
     "volume_count": 3,
@@ -1687,6 +1694,13 @@
     "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy | Unmarking Whiteness & the New American Racism | Racial Segregation & Eugenical Science Between the Wars"
   },
   {
+    "set_isbn": "9781009006163",
+    "set_isbn_title": "Factorization Algebras in Quantum Field Theory 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107163102, 9781107163157",
+    "volume_titles": "Factorization Algebras in Quantum Field Theory | Factorization Algebras in Quantum Field Theory"
+  },
+  {
     "set_isbn": "9781009031202",
     "set_isbn_title": "The Cambridge History of Arthurian Literature and Culture",
     "volume_count": 2,
@@ -1727,6 +1741,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108476379, 9781316510148",
     "volume_titles": "The Cambridge History of Later Latin Literature v1 | The Cambridge History of Later Latin Literature v2"
+  },
+  {
+    "set_isbn": "9781009647120",
+    "set_isbn_title": "Selected Essays on Kant 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009647144, 9781009647212",
+    "volume_titles": "Selected Essays on Kant II | Selected Essays on Kant I"
   },
   {
     "set_isbn": "9781009715225",
@@ -3640,6 +3661,13 @@
     "volume_titles": "Pharmaceutical Computer Systems Validation Volume 1 | Pharmaceutical Computer Systems Validation Volume 2"
   },
   {
+    "set_isbn": "9781107029507",
+    "set_isbn_title": "Cambridge History of Turkey 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521620932, 9780521620949, 9780521620956, 9780521620963",
+    "volume_titles": "The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey"
+  },
+  {
     "set_isbn": "9781107131705",
     "set_isbn_title": "The Cambridge Handbook of Social Theory 2 vols set",
     "volume_count": 2,
@@ -3654,6 +3682,13 @@
     "volume_titles": "The Political Writings of Alexander Hamilton | The Political Writings of Alexander Hamilton"
   },
   {
+    "set_isbn": "9781107484092",
+    "set_isbn_title": "Napoleon and the Struggle for Germany 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107439733, 9781107439757",
+    "volume_titles": "Napoleon & the Struggle for Germany | Napoleon & the Struggle for Germany"
+  },
+  {
     "set_isbn": "9781107497115",
     "set_isbn_title": "The Cambridge History of British Theatre 3 Vols Set",
     "volume_count": 3,
@@ -3661,11 +3696,25 @@
     "volume_titles": "The Cambridge History of British Theatre | The Cambridge History of British Theatre | The Cambridge History of British Theatre"
   },
   {
+    "set_isbn": "9781107558809",
+    "set_isbn_title": "Cambridge History of Philosophy Late Antiquity 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107573857, 9781107577046",
+    "volume_titles": "The Cambridge History of Philosophy in Late Antiquity | The Cambridge History of Philosophy in Late Antiquity"
+  },
+  {
     "set_isbn": "9781107602328",
     "set_isbn_title": "The Cambridge History of the Cold War 3 Vols Set",
     "volume_count": 3,
     "associated_volumes": "9781107602298, 9781107602304, 9781107602311",
     "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
+  },
+  {
+    "set_isbn": "9781107643246",
+    "set_isbn_title": "Cambridge History of Chinese Literature 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107684812, 9781107694873",
+    "volume_titles": "The Cambridge History of Chinese Literature | The Cambridge History of Chinese Literature"
   },
   {
     "set_isbn": "9781108011624",
@@ -3731,6 +3780,13 @@
     "volume_titles": "The Cambridge History of the American Revolution v1 | The Cambridge History of the American Revolution v3 | The Cambridge History of the American Revolution v2"
   },
   {
+    "set_isbn": "9781108557269",
+    "set_isbn_title": "Cambridge History of World Literature 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108493567, 9781108493581",
+    "volume_titles": "The Cambridge History of World Literature | The Cambridge History of World Literature"
+  },
+  {
     "set_isbn": "9781108567817",
     "set_isbn_title": "Cambridge History Age of Atlantic Revolutions 3 Vol Set",
     "volume_count": 3,
@@ -3766,6 +3822,13 @@
     "volume_titles": "The Cambridge History of the Papacy Vol 1 | The Cambridge History of the Papacy Vol 3 | The Cambridge History of the Papacy Vol 2"
   },
   {
+    "set_isbn": "9781108688994",
+    "set_isbn_title": "The Cambridge History of Atheism 2 Vol  Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108474344, 9781108474931",
+    "volume_titles": "The Cambridge History of Atheism | The Cambridge History of Atheism"
+  },
+  {
     "set_isbn": "9781108703093",
     "set_isbn_title": "History of Religions in the Ancient World Vol Set",
     "volume_count": 2,
@@ -3792,6 +3855,20 @@
     "volume_count": 3,
     "associated_volumes": "9781108486439, 9781108487078, 9781108493536",
     "volume_titles": "The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V1"
+  },
+  {
+    "set_isbn": "9781108825627",
+    "set_isbn_title": "Yalla 2 Vol PB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009349888, 9781009356428",
+    "volume_titles": "Yallā Part One | Yallā Part Two"
+  },
+  {
+    "set_isbn": "9781108843485",
+    "set_isbn_title": "Yalla 2 Vol HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009349888, 9781009356428",
+    "volume_titles": "Yallā Part One | Yallā Part Two"
   },
   {
     "set_isbn": "9781108868709",
