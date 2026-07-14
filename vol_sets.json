@@ -1449,11 +1449,32 @@
     "volume_titles": "Russian Emb Georgian Kings 1589-1605 - V2 | Russian Emb Georgian Kings 1589-1605 - V1"
   },
   {
+    "set_isbn": "9780521135955",
+    "set_isbn_title": "Architectural Hist Univ Camb v1 Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521135979, 9780521135986",
+    "volume_titles": "Architectural Hist Univ Camb v1 p2 | Architectural Hist Univ Camb v1 p1"
+  },
+  {
+    "set_isbn": "9780521136020",
+    "set_isbn_title": "Architectural Hist Univ Camb V3 Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521136037, 9780521136044",
+    "volume_titles": "Architectural Hist Univ Camb V3 P1 | Architectural Hist Univ Camb V3 P2"
+  },
+  {
     "set_isbn": "9780521141482",
     "set_isbn_title": "A Hist of Indian Phil 5 Vols set",
     "volume_count": 5,
     "associated_volumes": "9780521116299, 9780521116336, 9780521116367, 9780521116404, 9780521116435",
     "volume_titles": "History Indian Philosophy v1 | History Indian Philosophy v2 | History Indian Philosophy v3 | History Indian Philosophy v4 | History Indian Philosophy v5"
+  },
+  {
+    "set_isbn": "9780521176002",
+    "set_isbn_title": "Acta Numerica 7 v PB Set v 11-17",
+    "volume_count": 7,
+    "associated_volumes": "9780521174282, 9780521174305, 9780521174312, 9780521174329, 9780521174336, 9780521174343, 9780521174350",
+    "volume_titles": "Acta Numerica 2005 v14 | Acta Numerica 2002 v11 | Acta Numerica 2003 v12 | Acta Numerica 2004 v13 | Acta Numerica 2006 v15 | Acta Numerica 2007 | Acta Numerica 2008"
   },
   {
     "set_isbn": "9780521243773",
@@ -3738,11 +3759,60 @@
     "volume_titles": "The Saxons in England Vol 1 | The Saxons in England Vol 2"
   },
   {
+    "set_isbn": "9781108040785",
+    "set_isbn_title": "The Works of Francis Bacon PB 14V set",
+    "volume_count": 14,
+    "associated_volumes": "9781108040648, 9781108040655, 9781108040662, 9781108040679, 9781108040686, 9781108040693, 9781108040709, 9781108040716, 9781108040723, 9781108040730, 9781108040747, 9781108040754, 9781108040761, 9781108040778",
+    "volume_titles": "The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon | The Works of Francis Bacon"
+  },
+  {
     "set_isbn": "9781108060301",
     "set_isbn_title": "A System of Moral Philosophy 2 Vols Set",
     "volume_count": 2,
     "associated_volumes": "9781108060288, 9781108060295",
     "volume_titles": "A System of Moral Philosophy | A System of Moral Philosophy"
+  },
+  {
+    "set_isbn": "9781108078306",
+    "set_isbn_title": "The Tatler PB 4V Set",
+    "volume_count": 4,
+    "associated_volumes": "9781108078252, 9781108078276, 9781108078283, 9781108078290",
+    "volume_titles": "The Tatler | The Tatler | The Tatler | The Tatler"
+  },
+  {
+    "set_isbn": "9781108078405",
+    "set_isbn_title": "A History of Greece PB 7V set",
+    "volume_count": 7,
+    "associated_volumes": "9781108078337, 9781108078344, 9781108078351, 9781108078368, 9781108078375, 9781108078382, 9781108078399",
+    "volume_titles": "A History of Greece | A History of Greece | A History of Greece | A History of Greece | A History of Greece | A History of Greece | A History of Greece"
+  },
+  {
+    "set_isbn": "9781108078900",
+    "set_isbn_title": "Treasures of Art in Great Britain PB 4V Set",
+    "volume_count": 4,
+    "associated_volumes": "9781108078870, 9781108078887, 9781108078894, 9781108078917",
+    "volume_titles": "Treasures of Art in Great Britain | Treasures of Art in Great Britain | Treasures of Art in Great Britain | Treasures of Art in Great Britain"
+  },
+  {
+    "set_isbn": "9781108081832",
+    "set_isbn_title": "Geschichte der altkirchlichen Literatur PB 5V Set",
+    "volume_count": 5,
+    "associated_volumes": "9781108081849, 9781108081856, 9781108081863, 9781108081870, 9781108081887",
+    "volume_titles": "Geschichte der altkirchlichen Literatur | Geschichte der altkirchlichen Literatur | Geschichte der altkirchlichen Literatur | Geschichte der altkirchlichen Literatur | Geschichte der altkirchlichen Literatur"
+  },
+  {
+    "set_isbn": "9781108082501",
+    "set_isbn_title": "Fastorum libri sex PB 5v Set",
+    "volume_count": 5,
+    "associated_volumes": "9781108082464, 9781108082471, 9781108082488, 9781108082495, 9781108083232",
+    "volume_titles": "Fastorum libri sex | Fastorum libri sex | Fastorum libri sex | Fastorum libri sex | Fastorum libri sex"
+  },
+  {
+    "set_isbn": "9781108084826",
+    "set_isbn_title": "The Three Voyages of Captain James Cook PB 7V Set",
+    "volume_count": 7,
+    "associated_volumes": "9781108084758, 9781108084765, 9781108084772, 9781108084789, 9781108084796, 9781108084802, 9781108084819",
+    "volume_titles": "The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World | The Three Voyages of Captain James Cook Round the World"
   },
   {
     "set_isbn": "9781108226912",
@@ -3764,6 +3834,13 @@
     "volume_count": 2,
     "associated_volumes": "9781107197046, 9781107197121",
     "volume_titles": "Equivalents of the Riemann Hypothesis V1 | Equivalents of the Riemann Hypothesis V2"
+  },
+  {
+    "set_isbn": "9781108378406",
+    "set_isbn_title": "International Commercial & Investment Arbitration 3v set",
+    "volume_count": 3,
+    "associated_volumes": "9781009187831, 9781108420136, 9781108420853",
+    "volume_titles": "Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm"
   },
   {
     "set_isbn": "9781108415088",
@@ -4912,6 +4989,13 @@
     "volume_count": 4,
     "associated_volumes": "9780521867931, 9780521867948, 9780521867955, 9780521867962",
     "volume_titles": "The Letters of Samuel Beckett V1 | The Letters of Samuel Beckett V2 | The Letters of Samuel Beckett V3 | The Letters of Samuel Beckett V4"
+  },
+  {
+    "set_isbn": "9781316616512",
+    "set_isbn_title": "The Continental Drift Controversy PB 4 Set",
+    "volume_count": 4,
+    "associated_volumes": "9781316616048, 9781316616062, 9781316616123, 9781316616130",
+    "volume_titles": "The Continental Drift Controversy: Wegener & the Early Deb | The Continental Drift Controversy: Paleomagnetism & Confir | The Continental Drift Controversy: Introduction of Seafloo | The Continental Drift Controversy: Evolution into Plate Te"
   },
   {
     "set_isbn": "9781409413431",
