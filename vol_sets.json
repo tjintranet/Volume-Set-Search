@@ -1470,11 +1470,25 @@
     "volume_titles": "History Indian Philosophy v1 | History Indian Philosophy v2 | History Indian Philosophy v3 | History Indian Philosophy v4 | History Indian Philosophy v5"
   },
   {
+    "set_isbn": "9780521170833",
+    "set_isbn_title": "Military Effectiveness 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521737494, 9780521737500, 9780521737517",
+    "volume_titles": "Military Effectiveness V1 | Military Effectiveness V2 | Military Effectiveness V3"
+  },
+  {
     "set_isbn": "9780521176002",
     "set_isbn_title": "Acta Numerica 7 v PB Set v 11-17",
     "volume_count": 7,
     "associated_volumes": "9780521174282, 9780521174305, 9780521174312, 9780521174329, 9780521174336, 9780521174343, 9780521174350",
     "volume_titles": "Acta Numerica 2005 v14 | Acta Numerica 2002 v11 | Acta Numerica 2003 v12 | Acta Numerica 2004 v13 | Acta Numerica 2006 v15 | Acta Numerica 2007 | Acta Numerica 2008"
+  },
+  {
+    "set_isbn": "9780521199537",
+    "set_isbn_title": "Development of the Law of Torts in Europe 6 Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9780521111430, 9780521116794, 9780521192088, 9780521194129, 9780521494298, 9780521767668",
+    "volume_titles": "The Development of Medical Liability | The Development of Liability in Relation to Technological | The Development of Traffic Liability | The Development & Making of Legal Doctrine | The Development of Product Liability | The Development of Liability between Neighbours"
   },
   {
     "set_isbn": "9780521243773",
@@ -1503,6 +1517,13 @@
     "volume_count": 3,
     "associated_volumes": "9780521670531, 9780521670548, 9780521670555",
     "volume_titles": "The Quantum Theory of Fields v1 | The Quantum Theory of Fields v2 | The Quantum Theory of Fields v3"
+  },
+  {
+    "set_isbn": "9780521807586",
+    "set_isbn_title": "The Cambridge History of the English Language 6 Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9780521264747, 9780521264754, 9780521264761, 9780521264778, 9780521264785, 9780521264792",
+    "volume_titles": "The Cambridge History of the English Language V1 | The Cambridge History of the English Language V2 | The Cambridge History of the English Language V3 | The Cambridge History of the English Language V4 | The Cambridge History of the English Language V5 | The Cambridge History of the English Language V6"
   },
   {
     "set_isbn": "9780700715299",
@@ -1736,6 +1757,13 @@
     "volume_titles": "The New Cambridge History of the English Language V2 | The New Cambridge History of the English Language V1 | The New Cambridge History of the English Language V5 | The New Cambridge History of the English Language V4 | The New Cambridge History of the English Language V3 | The New Cambridge History of the English Language V6.1 | The New Cambridge History of the English Language V6.2"
   },
   {
+    "set_isbn": "9781009216050",
+    "set_isbn_title": "Meromorphic Dynamics 2vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009215916, 9781009215978",
+    "volume_titles": "Meromorphic Dynamics V1 | Meromorphic Dynamics V2"
+  },
+  {
     "set_isbn": "9781009286091",
     "set_isbn_title": "The New Documents in Mycenaean Greek 2 Vols Set",
     "volume_count": 2,
@@ -1748,6 +1776,13 @@
     "volume_count": 3,
     "associated_volumes": "9780521895798, 9780521895804, 9780521895811",
     "volume_titles": "A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses"
+  },
+  {
+    "set_isbn": "9781009417631",
+    "set_isbn_title": "The Cambridge History of Strategy 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108479929, 9781108479950",
+    "volume_titles": "The Cambridge History of Strategy V2 | The Cambridge History of Strategy V1"
   },
   {
     "set_isbn": "9781009500180",
@@ -3689,6 +3724,20 @@
     "volume_titles": "The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey"
   },
   {
+    "set_isbn": "9781107031838",
+    "set_isbn_title": "Cambridge History of American Foreign Relations 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521763288, 9780521763622, 9780521767521, 9781107005907",
+    "volume_titles": "The New Cambridge History of American Foreign Relations V3 | The New Cambridge History of American Foreign Relations V4 | The New Cambridge History of American Foreign Relations V2 | The New Cambridge History of American Foreign Relations V1"
+  },
+  {
+    "set_isbn": "9781107035034",
+    "set_isbn_title": "Cambridge History of English Literature 7 Vol Set",
+    "volume_count": 7,
+    "associated_volumes": "9780521190589, 9780521444200, 9780521631563, 9780521781442, 9780521790079, 9780521820776, 9780521846257",
+    "volume_titles": "The Cambridge History of Early Medieval English Literature | The Cambridge History of Medieval English Literature | The Cambridge History of Early Modern English Literature | The Cambridge History of English Literature 1660–1780 | The Cambridge History of English Romantic Literature | The Cambridge History of Twentieth-Century English Literat | The Cambridge History of Victorian Literature"
+  },
+  {
     "set_isbn": "9781107042612",
     "set_isbn_title": "The Cambridge Handbook to Byzantine Archaeology 2 Vol Set",
     "volume_count": 2,
@@ -3696,11 +3745,25 @@
     "volume_titles": "The Cambridge Handbook to Byzantine Archaeology | The Cambridge Handbook to Byzantine Archaeology"
   },
   {
+    "set_isbn": "9781107123229",
+    "set_isbn_title": "A History of Ancient Greek 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107123236, 9781107123281",
+    "volume_titles": "A History of Ancient Greek V1 | A History of Ancient Greek V2"
+  },
+  {
     "set_isbn": "9781107131705",
     "set_isbn_title": "The Cambridge Handbook of Social Theory 2 vols set",
     "volume_count": 2,
     "associated_volumes": "9781107162648, 9781107162693",
     "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
+  },
+  {
+    "set_isbn": "9781107400061",
+    "set_isbn_title": "Explorations in Ancient and Modern Philosophy 2  Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521750721, 9780521750738",
+    "volume_titles": "Explorations in Ancient & Modern Philosophy V1 | Explorations in Ancient & Modern Philosophy V2"
   },
   {
     "set_isbn": "9781107459304",
@@ -3715,6 +3778,13 @@
     "volume_count": 2,
     "associated_volumes": "9781107439733, 9781107439757",
     "volume_titles": "Napoleon & the Struggle for Germany | Napoleon & the Struggle for Germany"
+  },
+  {
+    "set_isbn": "9781107492554",
+    "set_isbn_title": "The Cambridge Handbook of Sociology 2vols PB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107564923, 9781107565227",
+    "volume_titles": "The Cambridge Handbook of Sociology V2 | The Cambridge Handbook of Sociology V1"
   },
   {
     "set_isbn": "9781107497115",
@@ -3736,6 +3806,13 @@
     "volume_count": 3,
     "associated_volumes": "9781107602298, 9781107602304, 9781107602311",
     "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
+  },
+  {
+    "set_isbn": "9781107630017",
+    "set_isbn_title": "The Cambridge History of Medieval Philosophy 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107675100, 9781107691919",
+    "volume_titles": "The Cambridge History of Medieval Philosophy V1 | The Cambridge History of Medieval Philosophy V2"
   },
   {
     "set_isbn": "9781107643246",
@@ -3771,6 +3848,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108060288, 9781108060295",
     "volume_titles": "A System of Moral Philosophy | A System of Moral Philosophy"
+  },
+  {
+    "set_isbn": "9781108078184",
+    "set_isbn_title": "Robin Hood 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108078160, 9781108078177",
+    "volume_titles": "Robin Hood V1 | Robin Hood V2"
   },
   {
     "set_isbn": "9781108078306",
@@ -3822,6 +3906,13 @@
     "volume_titles": "The Cambridge History of the Napoleonic Wars | The Cambridge History of the Napoleonic Wars v3 | The Cambridge History of the Napoleonic Wars v1"
   },
   {
+    "set_isbn": "9781108227247",
+    "set_isbn_title": "Advances in Economics and Econometrics 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108414982, 9781316510520",
+    "volume_titles": "Advances in Economics & Econometrics V2 | Advances in Economics & Econometrics V1"
+  },
+  {
     "set_isbn": "9781108227254",
     "set_isbn_title": "Advances in Economics and Econometrics 2 Vols Set",
     "volume_count": 2,
@@ -3843,6 +3934,20 @@
     "volume_titles": "Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm"
   },
   {
+    "set_isbn": "9781108399593",
+    "set_isbn_title": "Rethinking Society for the 21st Century 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108423120, 9781108423137, 9781108423144",
+    "volume_titles": "Rethinking Society for the 21st Century V1 | Rethinking Society for the 21st Century V2 | Rethinking Society for the 21st Century V3"
+  },
+  {
+    "set_isbn": "9781108407816",
+    "set_isbn_title": "The Cambridge World History 9 Vol set",
+    "volume_count": 9,
+    "associated_volumes": "9781108406420, 9781108407649, 9781108407694, 9781108407717, 9781108407724, 9781108407731, 9781108407748, 9781108407755, 9781108407762",
+    "volume_titles": "The Cambridge World History V1 | The Cambridge World History V2 | The Cambridge World History V3 | The Cambridge World History V4 | The Cambridge World History V5 | The Cambridge World History V6.1 | The Cambridge World History V6.2 | The Cambridge World History V7.1 | The Cambridge World History V7.2"
+  },
+  {
     "set_isbn": "9781108415088",
     "set_isbn_title": "The Holocaust and New World Slavery 2 vols set",
     "volume_count": 2,
@@ -3855,6 +3960,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108429320, 9781108429337",
     "volume_titles": "The Cambridge Handbook of Environmental Sociology | The Cambridge Handbook of Environmental Sociology"
+  },
+  {
+    "set_isbn": "9781108441902",
+    "set_isbn_title": "The Block Theory of Finite Group Algebras 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108441803, 9781108441834",
+    "volume_titles": "The Block Theory of Finite Group Algebras V2 | The Block Theory of Finite Group Algebras V1"
   },
   {
     "set_isbn": "9781108496629",
@@ -3892,11 +4004,25 @@
     "volume_titles": "The Cambridge History of the Gothic | The Cambridge History of the Gothic | The Cambridge History of the Gothic"
   },
   {
+    "set_isbn": "9781108677448",
+    "set_isbn_title": "The Cambridge History of Modern European Thought 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107483767, 9781107483804",
+    "volume_titles": "The Cambridge History of Modern European Thought V1 | The Cambridge History of Modern European Thought V2"
+  },
+  {
     "set_isbn": "9781108677462",
     "set_isbn_title": "Cambridge History of Modern European Thought 2 Vols Set",
     "volume_count": 2,
     "associated_volumes": "9781107097759, 9781107097780",
     "volume_titles": "The Cambridge History of Modern European Thought | The Cambridge History of Modern European Thought"
+  },
+  {
+    "set_isbn": "9781108679077",
+    "set_isbn_title": "Non-Associative Normed Algebras 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107043060, 9781107043114",
+    "volume_titles": "Non-Associative Normed Algebras V1 | Non-Associative Normed Algebras V2"
   },
   {
     "set_isbn": "9781108680950",
@@ -3955,6 +4081,13 @@
     "volume_titles": "Yallā Part One | Yallā Part Two"
   },
   {
+    "set_isbn": "9781108854368",
+    "set_isbn_title": "New Spaces in Mathematics and Physics 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108490627, 9781108490634",
+    "volume_titles": "New Spaces in Physics V2 | New Spaces in Mathematics V1"
+  },
+  {
     "set_isbn": "9781108868709",
     "set_isbn_title": "Corpus of Latin Texts on Papyrus Vol Set",
     "volume_count": 6,
@@ -3967,6 +4100,20 @@
     "volume_count": 4,
     "associated_volumes": "9781108830225, 9781108839389, 9781108839396, 9781108842976",
     "volume_titles": "The Cambridge History of the Holocaust v3 | The Cambridge History of the Holocaust v2 | The Cambridge History of the Holocaust v4 | The Cambridge History of the Holocaust v1"
+  },
+  {
+    "set_isbn": "9781108920223",
+    "set_isbn_title": "The Cabal Seminar 4 VolSet",
+    "volume_count": 4,
+    "associated_volumes": "9780521762038, 9780521899512, 9781107033405, 9781107182998",
+    "volume_titles": "Wadge Degrees & Projective Ordinals V2 | Games Scales & Suslin Cardinals | Ordinal Definability & Recursion Theory V3 | Large Cardinals Determinacy & Other Topics V4"
+  },
+  {
+    "set_isbn": "9781108939850",
+    "set_isbn_title": "HB Evolutionary Perspectives Sexual Psychology 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781108844277, 9781108844284, 9781108844291, 9781108844307",
+    "volume_titles": "The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex"
   },
   {
     "set_isbn": "9781138014244",
