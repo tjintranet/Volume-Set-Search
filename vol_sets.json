@@ -1505,6 +1505,34 @@
     "volume_titles": "The Cambridge History of Eighteenth-Century Philosophy | The Cambridge History of Eighteenth-Century Philosophy Vol"
   },
   {
+    "set_isbn": "9780521294294",
+    "set_isbn_title": "The Poems 2vols PB Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521222686, 9780521222693",
+    "volume_titles": "The Poems | The Poems"
+  },
+  {
+    "set_isbn": "9780521344401",
+    "set_isbn_title": "History of the Native Peoples of the Americas 1 Vol 2 pts",
+    "volume_count": 2,
+    "associated_volumes": "9780521573924, 9780521573931",
+    "volume_titles": "The Cambridge History of the Native Peoples of the America | The Cambridge History of the Native Peoples of the America"
+  },
+  {
+    "set_isbn": "9780521513487",
+    "set_isbn_title": "The Cambridge History of Medieval Music 2vol HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107179806, 9781107179813",
+    "volume_titles": "The Cambridge History of Medieval Music | The Cambridge History of Medieval Music"
+  },
+  {
+    "set_isbn": "9780521515368",
+    "set_isbn_title": "The New Cambridge History of Islam 6Vol Hb Set",
+    "volume_count": 6,
+    "associated_volumes": "9780521838238, 9780521838245, 9780521838269, 9780521839570, 9780521844437, 9780521850315",
+    "volume_titles": "The New Cambridge History of Islam | The New Cambridge History of Islam | The New Cambridge History of Islam | The New Cambridge History of Islam | The New Cambridge History of Islam | The New Cambridge History of Islam"
+  },
+  {
     "set_isbn": "9780521608428",
     "set_isbn_title": "The Texts of Early Greek Philosophy 2 Vol Set",
     "volume_count": 2,
@@ -1517,6 +1545,20 @@
     "volume_count": 3,
     "associated_volumes": "9780521670531, 9780521670548, 9780521670555",
     "volume_titles": "The Quantum Theory of Fields v1 | The Quantum Theory of Fields v2 | The Quantum Theory of Fields v3"
+  },
+  {
+    "set_isbn": "9780521679862",
+    "set_isbn_title": "The Cambridge History of American Theatre 3vol PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521679831, 9780521679848, 9780521679855",
+    "volume_titles": "Camb History of American Theatre v1 | Camb History of American Theatre v2 | The Cambridge History of American Theatre"
+  },
+  {
+    "set_isbn": "9780521782463",
+    "set_isbn_title": "Cambridge Edition the Works of Ben Jonson 7 Vol Set",
+    "volume_count": 7,
+    "associated_volumes": "9781107096462, 9781107096479, 9781107096486, 9781107096493, 9781107096509, 9781107096516, 9781107096523",
+    "volume_titles": "The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson | The Cambridge Edition of the Works of Ben Jonson"
   },
   {
     "set_isbn": "9780521807586",
@@ -1762,6 +1804,13 @@
     "volume_count": 2,
     "associated_volumes": "9781009215916, 9781009215978",
     "volume_titles": "Meromorphic Dynamics V1 | Meromorphic Dynamics V2"
+  },
+  {
+    "set_isbn": "9781009284370",
+    "set_isbn_title": "The Cambridge History of the European Union 2Vol HB set",
+    "volume_count": 2,
+    "associated_volumes": "9781108478939, 9781108490405",
+    "volume_titles": "The Cambridge History of the European Union | The Cambridge History of the European Union"
   },
   {
     "set_isbn": "9781009286091",
@@ -3724,6 +3773,13 @@
     "volume_titles": "Pharmaceutical Computer Systems Validation Volume 1 | Pharmaceutical Computer Systems Validation Volume 2"
   },
   {
+    "set_isbn": "9781107013346",
+    "set_isbn_title": "The Cambridge History of Religions in America 3vol HB Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521871082, 9780521871099, 9780521871105",
+    "volume_titles": "The Cambridge History of Religions in America | The Cambridge History of Religions in America | The Cambridge History of Religions in America"
+  },
+  {
     "set_isbn": "9781107029507",
     "set_isbn_title": "Cambridge History of Turkey 4 Vol Set",
     "volume_count": 4,
@@ -3752,6 +3808,13 @@
     "volume_titles": "The Cambridge Handbook to Byzantine Archaeology | The Cambridge Handbook to Byzantine Archaeology"
   },
   {
+    "set_isbn": "9781107105157",
+    "set_isbn_title": "The Cambridge History of the Vietnam War 3Vol HB set",
+    "volume_count": 3,
+    "associated_volumes": "9781107105089, 9781107105102, 9781107105126",
+    "volume_titles": "The Cambridge History of the Vietnam War | The Cambridge History of the Vietnam War | The Cambridge History of the Vietnam War"
+  },
+  {
     "set_isbn": "9781107123229",
     "set_isbn_title": "A History of Ancient Greek 2 Vol Set",
     "volume_count": 2,
@@ -3764,6 +3827,27 @@
     "volume_count": 2,
     "associated_volumes": "9781107162648, 9781107162693",
     "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
+  },
+  {
+    "set_isbn": "9781107165250",
+    "set_isbn_title": "The Cambridge Handbook of Cyber Behavior 2vol HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009057097, 9781316512142",
+    "volume_titles": "The Cambridge Handbook of Cyber Behavior | The Cambridge Handbook of Cyber Behavior"
+  },
+  {
+    "set_isbn": "9781107166158",
+    "set_isbn_title": "Guillaume Du Fay 2vol Hb set",
+    "volume_count": 2,
+    "associated_volumes": "9781107166004, 9781107166042",
+    "volume_titles": "Guillaume Du Fay | Guillaume Du Fay"
+  },
+  {
+    "set_isbn": "9781107167292",
+    "set_isbn_title": "The Cambridge History of Ireland 4vol HB Set",
+    "volume_count": 4,
+    "associated_volumes": "9781107110670, 9781107113541, 9781107115200, 9781107117631",
+    "volume_titles": "The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland"
   },
   {
     "set_isbn": "9781107400061",
@@ -3962,6 +4046,13 @@
     "volume_titles": "The Holocaust & New World Slavery v1 | The Holocaust & New World Slavery v2"
   },
   {
+    "set_isbn": "9781108419208",
+    "set_isbn_title": "Cambridge History of America and the World 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781108419222, 9781108419239, 9781108419260, 9781108419277",
+    "volume_titles": "The Cambridge History of America & the World | The Cambridge History of America & the World | The Cambridge History of America & the World | The Cambridge History of America & the World"
+  },
+  {
     "set_isbn": "9781108429306",
     "set_isbn_title": "Cambridge HB of Environmental Sociology 2 Vols Set",
     "volume_count": 2,
@@ -4046,6 +4137,13 @@
     "volume_titles": "The Cambridge History of Atheism | The Cambridge History of Atheism"
   },
   {
+    "set_isbn": "9781108690706",
+    "set_isbn_title": "Hell in the Byzantine World 2vol HB set",
+    "volume_count": 2,
+    "associated_volumes": "9781108474153, 9781108474160",
+    "volume_titles": "Hell in the Byzantine World | Hell in the Byzantine World"
+  },
+  {
     "set_isbn": "9781108703093",
     "set_isbn_title": "History of Religions in the Ancient World Vol Set",
     "volume_count": 2,
@@ -4107,6 +4205,13 @@
     "volume_count": 4,
     "associated_volumes": "9781108830225, 9781108839389, 9781108839396, 9781108842976",
     "volume_titles": "The Cambridge History of the Holocaust v3 | The Cambridge History of the Holocaust v2 | The Cambridge History of the Holocaust v4 | The Cambridge History of the Holocaust v1"
+  },
+  {
+    "set_isbn": "9781108896184",
+    "set_isbn_title": "The Cambridge World History of Sexualities 4vol HB Set",
+    "volume_count": 4,
+    "associated_volumes": "9781108842082, 9781108842099, 9781108842105, 9781108842112",
+    "volume_titles": "The Cambridge World History of Sexualities | The Cambridge World History of Sexualities | The Cambridge World History of Sexualities | The Cambridge World History of Sexualities"
   },
   {
     "set_isbn": "9781108920223",
@@ -5145,11 +5250,25 @@
     "volume_titles": "The Letters of Samuel Beckett V1 | The Letters of Samuel Beckett V2 | The Letters of Samuel Beckett V3 | The Letters of Samuel Beckett V4"
   },
   {
+    "set_isbn": "9781316600665",
+    "set_isbn_title": "The Cambridge History of the First World War 3vol PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781316504437, 9781316504994, 9781316601433",
+    "volume_titles": "The Cambridge History of the First World War | The Cambridge History of the First World War | The Cambridge History of the First World War"
+  },
+  {
     "set_isbn": "9781316616512",
     "set_isbn_title": "The Continental Drift Controversy PB 4 Set",
     "volume_count": 4,
     "associated_volumes": "9781316616048, 9781316616062, 9781316616123, 9781316616130",
     "volume_titles": "The Continental Drift Controversy: Wegener & the Early Deb | The Continental Drift Controversy: Paleomagnetism & Confir | The Continental Drift Controversy: Introduction of Seafloo | The Continental Drift Controversy: Evolution into Plate Te"
+  },
+  {
+    "set_isbn": "9781316617830",
+    "set_isbn_title": "The Cambridge History of Ireland 4vol PB set",
+    "volume_count": 4,
+    "associated_volumes": "9781107527560, 9781107534155, 9781107535596, 9781107540460",
+    "volume_titles": "The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland"
   },
   {
     "set_isbn": "9781409413431",
