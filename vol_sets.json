@@ -1519,6 +1519,13 @@
     "volume_titles": "The Cambridge History of the Native Peoples of the America | The Cambridge History of the Native Peoples of the America"
   },
   {
+    "set_isbn": "9780521400718",
+    "set_isbn_title": "SerboCroatian-English Dictionary 2 VolSet",
+    "volume_count": 3,
+    "associated_volumes": "9780521384957, 9780521384964, 9780521400718",
+    "volume_titles": "SerboCroatian-English Dictionary | English-SerboCroatian Dictionary | SerboCroatian-English Dictionary 2 VolSet"
+  },
+  {
     "set_isbn": "9780521513487",
     "set_isbn_title": "The Cambridge History of Medieval Music 2vol HB Set",
     "volume_count": 2,
@@ -1540,6 +1547,13 @@
     "volume_titles": "The Texts of Early Greek Philosophy | The Texts of Early Greek Philosophy"
   },
   {
+    "set_isbn": "9780521633130",
+    "set_isbn_title": "The Cambridge History of Egypt 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521471374, 9780521472111",
+    "volume_titles": "Cambridge History of Egypt v1 | Cambridge History of Egypt vol 2"
+  },
+  {
     "set_isbn": "9780521670562",
     "set_isbn_title": "The Quantum Theory of Fields 3 Vols Set",
     "volume_count": 3,
@@ -1554,6 +1568,20 @@
     "volume_titles": "Camb History of American Theatre v1 | Camb History of American Theatre v2 | The Cambridge History of American Theatre"
   },
   {
+    "set_isbn": "9780521692113",
+    "set_isbn_title": "Advances in Economics and Econometrics 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521692083, 9780521692090, 9780521692106",
+    "volume_titles": "Advances in Economics & Econometrics | Advances Economics Econometrics v2 | Advances in Economics & Econometrics"
+  },
+  {
+    "set_isbn": "9780521720540",
+    "set_isbn_title": "Math Papers Isaac Newton 8 Vol Set",
+    "volume_count": 8,
+    "associated_volumes": "9780521045810, 9780521045834, 9780521045841, 9780521045858, 9780521045896, 9780521045919, 9780521045957, 9780521045964",
+    "volume_titles": "Mathematical Papers Isaac Newton v3 | Mathematical Papers Isaac Newton v4 | Mathematical Papers Isaac Newton v5 | Mathematical Papers Isaac Newton v6 | Mathematical Papers Isaac Newton v7 | Mathematical Papers Isaac Newton v8 | The Mathematical Papers Vol 1 | Mathematical Papers Isaac Newton v2"
+  },
+  {
     "set_isbn": "9780521782463",
     "set_isbn_title": "Cambridge Edition the Works of Ben Jonson 7 Vol Set",
     "volume_count": 7,
@@ -1566,6 +1594,13 @@
     "volume_count": 6,
     "associated_volumes": "9780521264747, 9780521264754, 9780521264761, 9780521264778, 9780521264785, 9780521264792",
     "volume_titles": "The Cambridge History of the English Language V1 | The Cambridge History of the English Language V2 | The Cambridge History of the English Language V3 | The Cambridge History of the English Language V4 | The Cambridge History of the English Language V5 | The Cambridge History of the English Language V6"
+  },
+  {
+    "set_isbn": "9780521890755",
+    "set_isbn_title": "Visions of Politics 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521589253, 9780521589260, 9780521890601",
+    "volume_titles": "Visions of Politics v2 | Visions of Politics v1 | Visions of Politics v3"
   },
   {
     "set_isbn": "9780700715299",
@@ -3794,6 +3829,13 @@
     "volume_titles": "The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey | The Cambridge History of Turkey"
   },
   {
+    "set_isbn": "9781107030312",
+    "set_isbn_title": "Superstring Theory 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107029118, 9781107029132",
+    "volume_titles": "Superstring Theory | Superstring Theory"
+  },
+  {
     "set_isbn": "9781107031838",
     "set_isbn_title": "Cambridge History of American Foreign Relations 4 Vol Set",
     "volume_count": 4,
@@ -3918,6 +3960,13 @@
     "volume_count": 2,
     "associated_volumes": "9781107684812, 9781107694873",
     "volume_titles": "The Cambridge History of Chinese Literature | The Cambridge History of Chinese Literature"
+  },
+  {
+    "set_isbn": "9781107646414",
+    "set_isbn_title": "The Cambridge Economic History of Modern Britain 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107631434, 9781107686731",
+    "volume_titles": "The Cambridge Economic History of Modern Britain | The Cambridge Economic History of Modern Britain"
   },
   {
     "set_isbn": "9781108011624",
@@ -4233,6 +4282,13 @@
     "volume_count": 4,
     "associated_volumes": "9781108844277, 9781108844284, 9781108844291, 9781108844307",
     "volume_titles": "The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex | The Cambridge Handbook of Evolutionary Perspectives on Sex"
+  },
+  {
+    "set_isbn": "9781108965910",
+    "set_isbn_title": "Core Radiology 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108984447, 9781108984454",
+    "volume_titles": "Core Radiology | Core Radiology"
   },
   {
     "set_isbn": "9781138014244",
@@ -5276,6 +5332,13 @@
     "volume_count": 4,
     "associated_volumes": "9781107527560, 9781107534155, 9781107535596, 9781107540460",
     "volume_titles": "The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland | The Cambridge History of Ireland"
+  },
+  {
+    "set_isbn": "9781316626887",
+    "set_isbn_title": "The Cambridge World History of Violence 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781107119116, 9781107120129, 9781107151567, 9781107156388",
+    "volume_titles": "The Cambridge World History of Violence | The Cambridge World History of Violence | The Cambridge World History of Violence | The Cambridge World History of Violence"
   },
   {
     "set_isbn": "9781409413431",
