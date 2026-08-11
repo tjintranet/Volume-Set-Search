@@ -1582,6 +1582,41 @@
     "volume_titles": "Mathematical Papers Isaac Newton v3 | Mathematical Papers Isaac Newton v4 | Mathematical Papers Isaac Newton v5 | Mathematical Papers Isaac Newton v6 | Mathematical Papers Isaac Newton v7 | Mathematical Papers Isaac Newton v8 | The Mathematical Papers Vol 1 | Mathematical Papers Isaac Newton v2"
   },
   {
+    "set_isbn": "9780521757720",
+    "set_isbn_title": "British Islands Vegetation 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521757744, 9780521757768",
+    "volume_titles": "British Islands & Vegetation v1 | British Islands & Vegetation v2"
+  },
+  {
+    "set_isbn": "9780521757782",
+    "set_isbn_title": "Oldenbarnevelt 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521757812, 9780521757836",
+    "volume_titles": "Oldenbarnevelt part 1 | Oldenbarnevelt part 2"
+  },
+  {
+    "set_isbn": "9780521761673",
+    "set_isbn_title": "The European Garden Flora 5 Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9780521761475, 9780521761512, 9780521761550, 9780521761604, 9780521761642",
+    "volume_titles": "The European Garden Flora Flowering Plants | The European Garden Flora Flowering Plants | The European Garden Flora Flowering Plants | The European Garden Flora Flowering Plants | The European Garden Flora Flowering Plants"
+  },
+  {
+    "set_isbn": "9780521762328",
+    "set_isbn_title": "History of Portugal & Portuguese Empire 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521409087, 9780521843188",
+    "volume_titles": "The History of Portugal & the Portuguese Empire | The History of Portugal & the Portuguese Empire"
+  },
+  {
+    "set_isbn": "9780521767996",
+    "set_isbn_title": "Prospectus for the Public Offering of Securities 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521880701, 9780521880718",
+    "volume_titles": "Prospectus for the Public Offering of Securities in Europe | Prospectus for the Public Offering of Securities in Europe"
+  },
+  {
     "set_isbn": "9780521782463",
     "set_isbn_title": "Cambridge Edition the Works of Ben Jonson 7 Vol Set",
     "volume_count": 7,
@@ -1596,11 +1631,88 @@
     "volume_titles": "The Cambridge History of the English Language V1 | The Cambridge History of the English Language V2 | The Cambridge History of the English Language V3 | The Cambridge History of the English Language V4 | The Cambridge History of the English Language V5 | The Cambridge History of the English Language V6"
   },
   {
+    "set_isbn": "9780521827904",
+    "set_isbn_title": "The Cambridge History of British Theatre 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521650403, 9780521650687, 9780521651325",
+    "volume_titles": "The Cambridge History of British Theatre | The Cambridge History of British Theatre | The Cambridge History of British Theatre"
+  },
+  {
+    "set_isbn": "9780521838443",
+    "set_isbn_title": "A History of the University of Cambridge 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521328821, 9780521343503, 9780521350594, 9780521350600",
+    "volume_titles": "A History of the University of Cambridge | A History of the University of Cambridge | A History of the University of Cambridge | A History of the University of Cambridge"
+  },
+  {
+    "set_isbn": "9780521839334",
+    "set_isbn_title": "Counting the People in Hellenistic Egypt 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521838382, 9780521838399",
+    "volume_titles": "Counting the People in Hellenistic Egypt | Counting the People in Hellenistic Egypt"
+  },
+  {
+    "set_isbn": "9780521839396",
+    "set_isbn_title": "A History of Cambridge University Press 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521308014, 9780521308021, 9780521308038",
+    "volume_titles": "A History of Cambridge University Press Volume One | A History of Cambridge University Press Volume Two | A History of Cambridge University Press"
+  },
+  {
+    "set_isbn": "9780521845915",
+    "set_isbn_title": "The Texts of Early Greek Philosophy 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521449595, 9780521449601",
+    "volume_titles": "The Texts of Early Greek Philosophy | The Texts of Early Greek Philosophy"
+  },
+  {
+    "set_isbn": "9780521855532",
+    "set_isbn_title": "Cult Exchange Early Mod Europe Set 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521845465, 9780521845472, 9780521845489, 9780521845496",
+    "volume_titles": "Cult Exchange Early Mod Europe v1 | Cult Exchange Early Mod Europe v2 | Corr Cult Exch Early Mod Europe v3 | Cult Exchange Early Mod Europe v4"
+  },
+  {
+    "set_isbn": "9780521857161",
+    "set_isbn_title": "Cambridge Economic History of Latin America 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521812894, 9780521812900",
+    "volume_titles": "The Cambridge Economic History of Latin America | The Cambridge Economic History of Latin America"
+  },
+  {
+    "set_isbn": "9780521857604",
+    "set_isbn_title": "Cambridge History of American Literature  8 Vol Set",
+    "volume_count": 8,
+    "associated_volumes": "9780521301053, 9780521301060, 9780521301077, 9780521301084, 9780521301091, 9780521497312, 9780521497329, 9780521497336",
+    "volume_titles": "The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature"
+  },
+  {
+    "set_isbn": "9780521871556",
+    "set_isbn_title": "Advances in Economics and Econometrics 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521871525, 9780521871532, 9780521871549",
+    "volume_titles": "Advances in Economics & Econometrics | Advances Economics Econometrics v2 | Advances in Economics & Econometrics"
+  },
+  {
+    "set_isbn": "9780521875073",
+    "set_isbn_title": "The Continental Drift Controversy 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521875042, 9780521875059, 9780521875066, 9781107019942",
+    "volume_titles": "The Continental Drift Controversy: Wegener & the Early Deb | The Continental Drift Controversy: Paleomagnetism & Confir | The Continental Drift Controversy: Introduction of Seafloo | The Continental Drift Controversy: Evolution into Plate Te"
+  },
+  {
     "set_isbn": "9780521890755",
     "set_isbn_title": "Visions of Politics 3 Vol Set",
     "volume_count": 3,
     "associated_volumes": "9780521589253, 9780521589260, 9780521890601",
     "volume_titles": "Visions of Politics v2 | Visions of Politics v1 | Visions of Politics v3"
+  },
+  {
+    "set_isbn": "9780521898317",
+    "set_isbn_title": "Post-War Restoration of Property Rights 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521898287, 9780521898300",
+    "volume_titles": "Post-War Restoration of Property Rights Under Internationa | Post-War Restoration of Property Rights Under Internationa"
   },
   {
     "set_isbn": "9780700715299",
@@ -3822,6 +3934,13 @@
     "volume_titles": "The Cambridge History of Religions in America | The Cambridge History of Religions in America | The Cambridge History of Religions in America"
   },
   {
+    "set_isbn": "9781107022058",
+    "set_isbn_title": "Joseph Conrad: Contemporary Reviews 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781107022010, 9781107022027, 9781107022034, 9781107022041",
+    "volume_titles": "Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews"
+  },
+  {
     "set_isbn": "9781107029507",
     "set_isbn_title": "Cambridge History of Turkey 4 Vol Set",
     "volume_count": 4,
@@ -3843,11 +3962,39 @@
     "volume_titles": "The New Cambridge History of American Foreign Relations V3 | The New Cambridge History of American Foreign Relations V4 | The New Cambridge History of American Foreign Relations V2 | The New Cambridge History of American Foreign Relations V1"
   },
   {
+    "set_isbn": "9781107031845",
+    "set_isbn_title": "Freedom and the Construction of Europe 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107033061, 9781107033078",
+    "volume_titles": "Freedom & the Construction of Europe | Freedom & the Construction of Europe"
+  },
+  {
+    "set_isbn": "9781107032620",
+    "set_isbn_title": "Classical and Multilinear Harmonic Analysis 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521882453, 9781107031821",
+    "volume_titles": "Classical & Multilinear Harmonic Analysis | Classical & Multilinear Harmonic Analysis"
+  },
+  {
     "set_isbn": "9781107035034",
     "set_isbn_title": "Cambridge History of English Literature 7 Vol Set",
     "volume_count": 7,
     "associated_volumes": "9780521190589, 9780521444200, 9780521631563, 9780521781442, 9780521790079, 9780521820776, 9780521846257",
     "volume_titles": "The Cambridge History of Early Medieval English Literature | The Cambridge History of Medieval English Literature | The Cambridge History of Early Modern English Literature | The Cambridge History of English Literature 1660–1780 | The Cambridge History of English Romantic Literature | The Cambridge History of Twentieth-Century English Literat | The Cambridge History of Victorian Literature"
+  },
+  {
+    "set_isbn": "9781107039865",
+    "set_isbn_title": "The Impact of Idealism 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781107039827, 9781107039834, 9781107039841, 9781107039858",
+    "volume_titles": "The Impact of Idealism | The Impact of Idealism | The Impact of Idealism | The Impact of Idealism"
+  },
+  {
+    "set_isbn": "9781107042117",
+    "set_isbn_title": "History of Medieval Monasticism in Latin West 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107042094, 9781107042100",
+    "volume_titles": "The Cambridge History of Medieval Monasticism in the Latin | The Cambridge History of Medieval Monasticism in the Latin"
   },
   {
     "set_isbn": "9781107042612",
@@ -3948,6 +4095,13 @@
     "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
   },
   {
+    "set_isbn": "9781107625341",
+    "set_isbn_title": "A Course in Mathematical Analysis 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107032026, 9781107032033, 9781107032040",
+    "volume_titles": "A Course in Mathematical Analysis | A Course in Mathematical Analysis | A Course in Mathematical Analysis"
+  },
+  {
     "set_isbn": "9781107630017",
     "set_isbn_title": "The Cambridge History of Medieval Philosophy 2 Vol Set",
     "volume_count": 2,
@@ -3967,6 +4121,13 @@
     "volume_count": 2,
     "associated_volumes": "9781107631434, 9781107686731",
     "volume_titles": "The Cambridge Economic History of Modern Britain | The Cambridge Economic History of Modern Britain"
+  },
+  {
+    "set_isbn": "9781107650190",
+    "set_isbn_title": "Cambridge History of Libraries Britain & Ireland 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107650183, 9781107683709, 9781107693692",
+    "volume_titles": "The Cambridge History of Libraries in Britain & Ireland | The Cambridge History of Libraries in Britain & Ireland | The Cambridge History of Libraries in Britain & Ireland"
   },
   {
     "set_isbn": "9781108011624",
@@ -4123,6 +4284,20 @@
     "volume_titles": "The Block Theory of Finite Group Algebras V2 | The Block Theory of Finite Group Algebras V1"
   },
   {
+    "set_isbn": "9781108474214",
+    "set_isbn_title": "Constitutional History of the United Kingdom 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009277099, 9781009277754",
+    "volume_titles": "The Cambridge Constitutional History of the United Kingdom | The Cambridge Constitutional History of the United Kingdom"
+  },
+  {
+    "set_isbn": "9781108485074",
+    "set_isbn_title": "HB of Computational Cognitive Sciences 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009266772, 9781009266833",
+    "volume_titles": "The Cambridge Handbook of Computational Cognitive Sciences | The Cambridge Handbook of Computational Cognitive Sciences"
+  },
+  {
     "set_isbn": "9781108496629",
     "set_isbn_title": "Cambridge History of the American Revolution 3 vols set",
     "volume_count": 3,
@@ -4149,6 +4324,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108481342, 9781108481359",
     "volume_titles": "The Cambridge History of Socialism | The Cambridge History of Socialism"
+  },
+  {
+    "set_isbn": "9781108623865",
+    "set_isbn_title": "Cambridge History of Global Migrations 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108487535, 9781108487542",
+    "volume_titles": "The Cambridge History of Global Migrations | The Cambridge History of Global Migrations"
   },
   {
     "set_isbn": "9781108662017",
