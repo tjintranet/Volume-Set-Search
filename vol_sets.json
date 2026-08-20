@@ -3045,6 +3045,13 @@
     "volume_titles": "Food in Nineteenth-Century British History Vol I | Food in Nineteenth-Century British History Vol II | Food in Nineteenth-Century British History III | Food in Nineteenth-Century British History IV"
   },
   {
+    "set_isbn": "9781032745343",
+    "set_isbn_title": "British Egyptology in the Nineteenth Century Volume Set",
+    "volume_count": 4,
+    "associated_volumes": "9781041330844, 9781041330899, 9781041330905, 9781041330936",
+    "volume_titles": "British Egyptology in the Nineteenth Century Volume I | British Egyptology in the Nineteenth Century Volume II | British Egyptology in the Nineteenth Century Volume III | British Egyptology in the Nineteenth Century Volume IV"
+  },
+  {
     "set_isbn": "9781032746302",
     "set_isbn_title": "Equipment Intelligent Operation and Maintenance Vol Set",
     "volume_count": 2,
@@ -6368,6 +6375,13 @@
     "volume_count": 2,
     "associated_volumes": "9781779640246, 9781779640260",
     "volume_titles": "Chromosomal & Genomic Structures & Functions | Chromosomal & Genomic Structures & Functions"
+  },
+  {
+    "set_isbn": "9781779641700",
+    "set_isbn_title": "Holistic Approaches for Women's Sustainable Health Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781779641625, 9781779641649, 9781779641663, 9781779641687",
+    "volume_titles": "Holistic Approaches for Women's Sustainable Health Vol 1 | Holistic Approaches for Women's Sustainable Health Vol 2 | Holistic Approaches for Women's Sustainable Health Vol 3 | Holistic Approaches for Women's Sustainable Health Vol 4"
   },
   {
     "set_isbn": "9781779641762",
