@@ -2580,7 +2580,14 @@
     "set_isbn_title": "Remote Sensing & Digital Image Processing Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032359229, 9781032461243",
-    "volume_titles": "Remote Sensing & Digital Image Processing | Remote Sensing & Digital Image Processing - Lab Man"
+    "volume_titles": "Remote Sensing & Digital Image Processing | Remote Sensing and Digital Image Processing Lab Manual V2"
+  },
+  {
+    "set_isbn": "9781032461724",
+    "set_isbn_title": "Remote Sensing and Digital Image Processing with R Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032359823, 9781032461243",
+    "volume_titles": "Remote Sensing and Digital Image Processing Textbook V1 | Remote Sensing and Digital Image Processing Lab Manual V2"
   },
   {
     "set_isbn": "9781032464893",
@@ -2833,6 +2840,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032590653, 9781032590660",
     "volume_titles": "The History of Chinese Phonology | The History of Chinese Phonology"
+  },
+  {
+    "set_isbn": "9781032598178",
+    "set_isbn_title": "The History of Chinese Phonology Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032598406, 9781032598437",
+    "volume_titles": "The History of Chinese Phonology Volume 1 | The History of Chinese Phonology Volume 2"
   },
   {
     "set_isbn": "9781032600352",
@@ -3108,6 +3122,13 @@
     "volume_titles": "Industrial Water & Waste Treatment - Fundamentals | Industrial Water & Waste Treatment - Research Dev | Industrial Water & Waste Treatment - Tech Dev | Industrial Water & Waste Treatment - Process Dev | Industrial Water & Waste Treatment - Pollution Control | Industrial Water & Waste Treatment - Resource Con | Industrial Water & Waste Treatment - Case Studies | Industrial Water & Waste Treatment - Innovative Sol"
   },
   {
+    "set_isbn": "9781032779584",
+    "set_isbn_title": "Ergonomics in the Automotive Design Process Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032779621, 9781032779652",
+    "volume_titles": "Ergonomics in Auto Design Concepts V1 Issues and Methods | Ergonomics in the Auto Design V2 Advanced Topics"
+  },
+  {
     "set_isbn": "9781032801476",
     "set_isbn_title": "Java Programming Exercises Vol Set",
     "volume_count": 2,
@@ -3171,6 +3192,13 @@
     "volume_titles": "The Origin & Evolution of Chinas Names I | The Origin & Evolution of Chinas Names II"
   },
   {
+    "set_isbn": "9781032836409",
+    "set_isbn_title": "The Origin and Evolution of China's Names Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032836416, 9781032836454",
+    "volume_titles": "The Origin & Evolution of Chinas Names I | The Origin & Evolution of Chinas Names II"
+  },
+  {
     "set_isbn": "9781032860282",
     "set_isbn_title": "Rout Library Editions - Soviet Society Vol Set",
     "volume_count": 27,
@@ -3183,6 +3211,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032791906, 9781032864518",
     "volume_titles": "Intelligent Control for Electric Power Systems & Electric | Fault Diagnosis for Electric Power Systems & Electric Vehi"
+  },
+  {
+    "set_isbn": "9781032864754",
+    "set_isbn_title": "Control and FDI for Electric Power Systems and EVs Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032791920, 9781032864655",
+    "volume_titles": "Intelligent Control for Electric Power Systems and EVs V1 | Fault Diagnosis for Electric Power Systems and EVs V2"
   },
   {
     "set_isbn": "9781032865737",
@@ -3402,6 +3437,13 @@
     "volume_titles": "Social Continuity & Rupture in Rural China I | Social Continuity & Rupture in Rural China II"
   },
   {
+    "set_isbn": "9781032951508",
+    "set_isbn_title": "Social Continuity and Rupture in Rural China Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032951485, 9781032951492",
+    "volume_titles": "Social Continuity & Rupture in Rural China I | Social Continuity & Rupture in Rural China II"
+  },
+  {
     "set_isbn": "9781032959962",
     "set_isbn_title": "Chinese Art Theory Vol Set",
     "volume_count": 2,
@@ -3442,6 +3484,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032916545, 9781032916552",
     "volume_titles": "Chinese Social Media I | Chinese Social Media II"
+  },
+  {
+    "set_isbn": "9781032979878",
+    "set_isbn_title": "Chinese Social Media Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032979892, 9781032979908",
+    "volume_titles": "Chinese Social Media II | Chinese Social Media I"
   },
   {
     "set_isbn": "9781032993225",
@@ -6375,6 +6424,13 @@
     "volume_count": 2,
     "associated_volumes": "9781779640246, 9781779640260",
     "volume_titles": "Chromosomal & Genomic Structures & Functions | Chromosomal & Genomic Structures & Functions"
+  },
+  {
+    "set_isbn": "9781779641465",
+    "set_isbn_title": "Environmental Sensor Technologies Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779641489, 9781779641502",
+    "volume_titles": "Environmental Sensor Technologies Volume 1 | Environmental Sensor Technologies Volume 2"
   },
   {
     "set_isbn": "9781779641700",
