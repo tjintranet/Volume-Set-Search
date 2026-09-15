@@ -2653,6 +2653,13 @@
     "volume_titles": "Remote Sensing of Land Use Changes Southeast Asia Volume 1 | Remote Sensing of Land Use Changes Southeast Asia Volume 2"
   },
   {
+    "set_isbn": "9781032501390",
+    "set_isbn_title": "Wadsworth's Social Research and Evaluation Volume Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032440439, 9781032440507, 9781032440521",
+    "volume_titles": "Do It Yourself Social Research | Everyday Evaluation on the Run | Human Inquiry for Living Systems"
+  },
+  {
     "set_isbn": "9781032509891",
     "set_isbn_title": "Handbook of Perovskite Solar Cells Vol Set",
     "volume_count": 3,
