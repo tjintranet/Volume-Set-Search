@@ -3955,6 +3955,20 @@
     "volume_titles": "Handbook of Visual Optics Volume One | Handbook of Visual Optics Volume Two"
   },
   {
+    "set_isbn": "9781041273875",
+    "set_isbn_title": "Year of the Goat An AI-Savvy Approach Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041001317, 9781041001324",
+    "volume_titles": "Year of the Goat An AI-Savvy Approach to Learning Vol 2 | Year of the Goat An AI-Savvy Approach to Learning Vol 1"
+  },
+  {
+    "set_isbn": "9781041276777",
+    "set_isbn_title": "Year of the Goat An AI-Savvy Approach Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041001232, 9781041001300",
+    "volume_titles": "Year of the Goat An AI-Savvy Approach to Learning Vol 1 | Year of the Goat An AI-Savvy Approach to Learning Vol 2"
+  },
+  {
     "set_isbn": "9781041279303",
     "set_isbn_title": "Integrative Approach to Fungal Infections Vol Set",
     "volume_count": 2,
