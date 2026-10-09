@@ -294,6 +294,13 @@
     "volume_titles": "Environmental Compliance Hbk Vol 3 | Environmental Compliance Hbk Vol 2 | Environmental Compliance Hbk Vol 4 | Environmental Compliance Hbk Vol 1"
   },
   {
+    "set_isbn": "9780367740610",
+    "set_isbn_title": "COVID-19 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367695125, 9780367695156",
+    "volume_titles": "COVID-19 Volume II | COVID-19 Volume I"
+  },
+  {
     "set_isbn": "9780367751609",
     "set_isbn_title": "Aptitude Learning & Instruction Vol Set",
     "volume_count": 3,
@@ -2667,6 +2674,13 @@
     "volume_titles": "Do It Yourself Social Research | Everyday Evaluation on the Run | Human Inquiry for Living Systems"
   },
   {
+    "set_isbn": "9781032504957",
+    "set_isbn_title": "The Human Brain During the First Trimester Volume Set",
+    "volume_count": 7,
+    "associated_volumes": "9781032183251, 9781032183275, 9781032183329, 9781032185668, 9781032219288, 9781032219301, 9781032219370",
+    "volume_titles": "Atlas of Human Central Nervous System Development Volume 1 | Atlas of Human Central Nervous System Development Volume 2 | Atlas of Human Central Nervous System Development Volume 5 | Atlas of Human Central Nervous System Development Volume 7 | Atlas of Human Central Nervous System Development Volume 3 | Atlas of Human Central Nervous System Development Volume 4 | Atlas of Human Central Nervous System Development Volume 6"
+  },
+  {
     "set_isbn": "9781032509891",
     "set_isbn_title": "Handbook of Perovskite Solar Cells Vol Set",
     "volume_count": 3,
@@ -2952,6 +2966,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032548241, 9781032623344",
     "volume_titles": "Deep Learning for Multimedia Processing Apps Vol 1 | Deep Learning for Multimedia Processing Apps Vol 2"
+  },
+  {
+    "set_isbn": "9781032666099",
+    "set_isbn_title": "Image Processing and Machine Learning Volume set",
+    "volume_count": 2,
+    "associated_volumes": "9781032262604, 9781032662459",
+    "volume_titles": "Image Processing & Machine Learning Volume 1 | Image Processing & Machine Learning Volume 2"
   },
   {
     "set_isbn": "9781032666976",
@@ -3311,6 +3332,13 @@
     "volume_titles": "Statistical Mechanics of Liquids & Solutions Vol I | Statistical Mechanics of Liquids & Solutions Vol II"
   },
   {
+    "set_isbn": "9781032901107",
+    "set_isbn_title": "Building Energy Simulation Using DesignBuilder™ Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032896014, 9781032908755",
+    "volume_titles": "Building Energy Simulation Envelope & Lighting Volume 1 | Building Energy Simulation HVAC & Renewable Volume 2"
+  },
+  {
     "set_isbn": "9781032903835",
     "set_isbn_title": "Radioactivity Vol Set",
     "volume_count": 2,
@@ -3337,6 +3365,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032817606, 9781032911601",
     "volume_titles": "Computational Methods in Science & Technology Vol 1 | Computational Methods in Science & Technology Vol 2"
+  },
+  {
+    "set_isbn": "9781032913896",
+    "set_isbn_title": "Building Energy Simulation Using DesignBuilder™ Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032913858, 9781032913889",
+    "volume_titles": "Building Energy Simulation Envelope & Lighting Volume 1 | Building Energy Simulation HVAC & Renewable Volume 2"
   },
   {
     "set_isbn": "9781032917245",
@@ -4009,6 +4044,20 @@
     "volume_count": 2,
     "associated_volumes": "9781032981086, 9781041371151",
     "volume_titles": "Pharmaceutical Computer Systems Validation Volume 1 | Pharmaceutical Computer Systems Validation Volume 2"
+  },
+  {
+    "set_isbn": "9781041393719",
+    "set_isbn_title": "3ds Max Basics for Modeling Video Game Assets Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041273967, 9781041273981",
+    "volume_titles": "3ds Max Basics for Modeling Video Game Assets Volume 1 | 3ds Max Basics for Modeling Video Game Assets Volume 2"
+  },
+  {
+    "set_isbn": "9781041393733",
+    "set_isbn_title": "3ds Max Basics for Modeling Video Game Assets Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041273950, 9781041273974",
+    "volume_titles": "3ds Max Basics for Modeling Video Game Assets Volume 1 | 3ds Max Basics for Modeling Video Game Assets Volume 2"
   },
   {
     "set_isbn": "9781107013346",
