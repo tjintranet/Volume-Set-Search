@@ -1456,6 +1456,20 @@
     "volume_titles": "Russian Emb Georgian Kings 1589-1605 - V2 | Russian Emb Georgian Kings 1589-1605 - V1"
   },
   {
+    "set_isbn": "9780521116770",
+    "set_isbn_title": "The Cambridge History of Chinese Literature 2vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521855587, 9780521855594",
+    "volume_titles": "The Cambridge History of Chinese Literature | The Cambridge History of Chinese Literature"
+  },
+  {
+    "set_isbn": "9780521135108",
+    "set_isbn_title": "Le Songe Du Vieil Pelerin 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521113472, 9780521113489",
+    "volume_titles": "Le Songe Du Vieil Pelerin Vol 1 | Le Songe Du Vieil Pelerin Vol 2"
+  },
+  {
     "set_isbn": "9780521135955",
     "set_isbn_title": "Architectural Hist Univ Camb v1 Set",
     "volume_count": 2,
@@ -1477,6 +1491,20 @@
     "volume_titles": "History Indian Philosophy v1 | History Indian Philosophy v2 | History Indian Philosophy v3 | History Indian Philosophy v4 | History Indian Philosophy v5"
   },
   {
+    "set_isbn": "9780521168953",
+    "set_isbn_title": "Acta Numerica 10vols PB Set",
+    "volume_count": 10,
+    "associated_volumes": "9780521157353, 9780521157360, 9780521157575, 9780521157582, 9780521157643, 9780521157650, 9780521157667, 9780521157674, 9780521157698, 9780521422918",
+    "volume_titles": "Acta Numerica 1996 | Acta Numerica 1994 | Acta Numerica 1993 | Acta Numerica 1995 | Acta Numerica 1997 v6 | Acta Numerica 1998 v7 | Acta Numerica 1999 v8 | Acta Numerica 2000 v9 | Acta Numerica 2001 v10 | Acta Numerica 1992"
+  },
+  {
+    "set_isbn": "9780521170611",
+    "set_isbn_title": "Scientific Pprs G I Taylor 4v Set",
+    "volume_count": 4,
+    "associated_volumes": "9780521158794, 9780521159029, 9780521159036, 9780521159043",
+    "volume_titles": "Scntfc Paprs Sir Geoffry Taylor v4 | Scntfc Paprs Sir Geoffry Taylor v1 | Scntfc Paprs Sir Geoffry Taylor v2 | Scntfc Paprs Sir Geoffry Taylor v3"
+  },
+  {
     "set_isbn": "9780521170833",
     "set_isbn_title": "Military Effectiveness 3 Vol Set",
     "volume_count": 3,
@@ -1484,11 +1512,25 @@
     "volume_titles": "Military Effectiveness V1 | Military Effectiveness V2 | Military Effectiveness V3"
   },
   {
+    "set_isbn": "9780521172592",
+    "set_isbn_title": "Measurement Moral Judgment 2v Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521169103, 9780521170796",
+    "volume_titles": "The Measurement Moral Judgement v1 | The Measurement Moral Judgement v2"
+  },
+  {
     "set_isbn": "9780521176002",
     "set_isbn_title": "Acta Numerica 7 v PB Set v 11-17",
     "volume_count": 7,
     "associated_volumes": "9780521174282, 9780521174305, 9780521174312, 9780521174329, 9780521174336, 9780521174343, 9780521174350",
     "volume_titles": "Acta Numerica 2005 v14 | Acta Numerica 2002 v11 | Acta Numerica 2003 v12 | Acta Numerica 2004 v13 | Acta Numerica 2006 v15 | Acta Numerica 2007 | Acta Numerica 2008"
+  },
+  {
+    "set_isbn": "9780521196222",
+    "set_isbn_title": "The Cambridge Edition of the Works of Anne Finc 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107068605, 9781107068650",
+    "volume_titles": "The Cambridge Edition of the Works of Anne Finch Countess | The Cambridge Edition of the Works of Anne Finch Countess"
   },
   {
     "set_isbn": "9780521199537",
@@ -1531,6 +1573,13 @@
     "volume_count": 3,
     "associated_volumes": "9780521384957, 9780521384964, 9780521400718",
     "volume_titles": "SerboCroatian-English Dictionary | English-SerboCroatian Dictionary | SerboCroatian-English Dictionary 2 VolSet"
+  },
+  {
+    "set_isbn": "9780521438131",
+    "set_isbn_title": "The Cambridge Social History of Britain 1750 3vols PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521438148, 9780521438155, 9780521438162",
+    "volume_titles": "The Cambridge Social History of Britain 1750–1950 | The Cambridge Social History of Britain 1750–1950 | The Cambridge Social History of Britain 1750–1950"
   },
   {
     "set_isbn": "9780521513487",
@@ -1582,11 +1631,25 @@
     "volume_titles": "Advances in Economics & Econometrics | Advances Economics Econometrics v2 | Advances in Economics & Econometrics"
   },
   {
+    "set_isbn": "9780521701525",
+    "set_isbn_title": "Richard Rorty: Philosophical Papers Set 4vols PB",
+    "volume_count": 4,
+    "associated_volumes": "9780521358774, 9780521358781, 9780521556866, 9780521698351",
+    "volume_titles": "Objectivity Relativism & Truth v1 | Essays on Heidegger & Others | Truth & Progress v3 | Philosophy as Cultural Politics v4"
+  },
+  {
     "set_isbn": "9780521720540",
     "set_isbn_title": "Math Papers Isaac Newton 8 Vol Set",
     "volume_count": 8,
     "associated_volumes": "9780521045810, 9780521045834, 9780521045841, 9780521045858, 9780521045896, 9780521045919, 9780521045957, 9780521045964",
     "volume_titles": "Mathematical Papers Isaac Newton v3 | Mathematical Papers Isaac Newton v4 | Mathematical Papers Isaac Newton v5 | Mathematical Papers Isaac Newton v6 | Mathematical Papers Isaac Newton v7 | Mathematical Papers Isaac Newton v8 | The Mathematical Papers Vol 1 | Mathematical Papers Isaac Newton v2"
+  },
+  {
+    "set_isbn": "9780521735728",
+    "set_isbn_title": "Essay Principle of Population Set 2 vols PB",
+    "volume_count": 2,
+    "associated_volumes": "9780521071321, 9780521071345",
+    "volume_titles": "Malthus Essay Prin Population v2 | Malthus: Essay Prin Population v1"
   },
   {
     "set_isbn": "9780521757720",
@@ -1638,11 +1701,25 @@
     "volume_titles": "The Cambridge History of the English Language V1 | The Cambridge History of the English Language V2 | The Cambridge History of the English Language V3 | The Cambridge History of the English Language V4 | The Cambridge History of the English Language V5 | The Cambridge History of the English Language V6"
   },
   {
+    "set_isbn": "9780521822244",
+    "set_isbn_title": "The Cambridge History of Irish Literature 2vols Hb Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521822220, 9780521822237",
+    "volume_titles": "The Cambridge History of Irish Literature | The Cambridge History of Irish Literature"
+  },
+  {
     "set_isbn": "9780521827904",
     "set_isbn_title": "The Cambridge History of British Theatre 3 Vol Set",
     "volume_count": 3,
     "associated_volumes": "9780521650403, 9780521650687, 9780521651325",
     "volume_titles": "The Cambridge History of British Theatre | The Cambridge History of British Theatre | The Cambridge History of British Theatre"
+  },
+  {
+    "set_isbn": "9780521833066",
+    "set_isbn_title": "Sir Charles Grandison V4",
+    "volume_count": 4,
+    "associated_volumes": "9781107030664, 9781107030671, 9781107030688, 9781107030695",
+    "volume_titles": "Sir Charles Grandison | Sir Charles Grandison | Sir Charles Grandison | Sir Charles Grandison"
   },
   {
     "set_isbn": "9780521838443",
@@ -1694,6 +1771,13 @@
     "volume_titles": "The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature | The Cambridge History of American Literature"
   },
   {
+    "set_isbn": "9780521857796",
+    "set_isbn_title": "The Cambridge History of Greek and Roman W 2 volume HB set",
+    "volume_count": 2,
+    "associated_volumes": "9780521782739, 9780521782746",
+    "volume_titles": "The Cambridge History of Greek & Roman Warfare | The Cambridge History of Greek & Roman Warfare"
+  },
+  {
     "set_isbn": "9780521871556",
     "set_isbn_title": "Advances in Economics and Econometrics 3 Vol Set",
     "volume_count": 3,
@@ -1713,6 +1797,13 @@
     "volume_count": 3,
     "associated_volumes": "9780521589253, 9780521589260, 9780521890601",
     "volume_titles": "Visions of Politics v2 | Visions of Politics v1 | Visions of Politics v3"
+  },
+  {
+    "set_isbn": "9780521897617",
+    "set_isbn_title": "The European Company 2vols Hb Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521859745, 9780521860000",
+    "volume_titles": "The European Company | The European Company"
   },
   {
     "set_isbn": "9780521898317",
@@ -1986,6 +2077,13 @@
     "volume_count": 3,
     "associated_volumes": "9780521895798, 9780521895804, 9780521895811",
     "volume_titles": "A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses | A Commentary on Ovid's Metamorphoses"
+  },
+  {
+    "set_isbn": "9781009336215",
+    "set_isbn_title": "The Taft Court Vol10 (2 parts)",
+    "volume_count": 2,
+    "associated_volumes": "9781009346177, 9781009346214",
+    "volume_titles": "The Taft Court | The Taft Court"
   },
   {
     "set_isbn": "9781009417631",
@@ -4067,11 +4165,25 @@
     "volume_titles": "3ds Max Basics for Modeling Video Game Assets Volume 1 | 3ds Max Basics for Modeling Video Game Assets Volume 2"
   },
   {
+    "set_isbn": "9781107000926",
+    "set_isbn_title": "The Novels of Justinian 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108483193, 9781108483209",
+    "volume_titles": "The Novels of Justinian | The Novels of Justinian"
+  },
+  {
     "set_isbn": "9781107013346",
     "set_isbn_title": "The Cambridge History of Religions in America 3vol HB Set",
     "volume_count": 3,
     "associated_volumes": "9780521871082, 9780521871099, 9780521871105",
     "volume_titles": "The Cambridge History of Religions in America | The Cambridge History of Religions in America | The Cambridge History of Religions in America"
+  },
+  {
+    "set_isbn": "9781107017214",
+    "set_isbn_title": "Advances in Economics and Econometrics 3vols HB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107016040, 9781107016057, 9781107016064",
+    "volume_titles": "Advances in Economics & Econometrics | Advances in Economics & Econometrics | Advances in Economics & Econometrics"
   },
   {
     "set_isbn": "9781107022058",
@@ -4116,11 +4228,25 @@
     "volume_titles": "Classical & Multilinear Harmonic Analysis | Classical & Multilinear Harmonic Analysis"
   },
   {
+    "set_isbn": "9781107035010",
+    "set_isbn_title": "The Stationers' Company and the Printers of Lon 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107038561, 9781107038578",
+    "volume_titles": "The Stationers' Company & the Printers of London 1501–1557 | The Stationers' Company & the Printers of London 1501–1557"
+  },
+  {
     "set_isbn": "9781107035034",
     "set_isbn_title": "Cambridge History of English Literature 7 Vol Set",
     "volume_count": 7,
     "associated_volumes": "9780521190589, 9780521444200, 9780521631563, 9780521781442, 9780521790079, 9780521820776, 9780521846257",
     "volume_titles": "The Cambridge History of Early Medieval English Literature | The Cambridge History of Medieval English Literature | The Cambridge History of Early Modern English Literature | The Cambridge History of English Literature 1660–1780 | The Cambridge History of English Romantic Literature | The Cambridge History of Twentieth-Century English Literat | The Cambridge History of Victorian Literature"
+  },
+  {
+    "set_isbn": "9781107037243",
+    "set_isbn_title": "The Cambridge Encyclopaedia of Late Antique A 2vols Hb Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009535106, 9781009535168",
+    "volume_titles": "The Cambridge Encyclopaedia of Late Antique Art & Archaeol | The Cambridge Encyclopaedia of Late Antique Art & Archaeol"
   },
   {
     "set_isbn": "9781107039865",
@@ -4151,11 +4277,25 @@
     "volume_titles": "The Cambridge History of the Crusades | The Cambridge History of the Crusades | The Cambridge History of the Crusades"
   },
   {
+    "set_isbn": "9781107096400",
+    "set_isbn_title": "The Cambridge Handbook of Applied Perception 2 vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107072909, 9781107072930",
+    "volume_titles": "The Cambridge Handbook of Applied Perception Research | The Cambridge Handbook of Applied Perception Research"
+  },
+  {
     "set_isbn": "9781107105157",
     "set_isbn_title": "The Cambridge History of the Vietnam War 3Vol HB set",
     "volume_count": 3,
     "associated_volumes": "9781107105089, 9781107105102, 9781107105126",
     "volume_titles": "The Cambridge History of the Vietnam War | The Cambridge History of the Vietnam War | The Cambridge History of the Vietnam War"
+  },
+  {
+    "set_isbn": "9781107116481",
+    "set_isbn_title": "The Cambridge History of the Mongol Empire 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107112957, 9781107112971",
+    "volume_titles": "The Cambridge History of the Mongol Empire | The Cambridge History of the Mongol Empire"
   },
   {
     "set_isbn": "9781107123229",
@@ -4170,6 +4310,20 @@
     "volume_count": 2,
     "associated_volumes": "9781107162648, 9781107162693",
     "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
+  },
+  {
+    "set_isbn": "9781107145528",
+    "set_isbn_title": "Correspondence with Lady Bradshaigh and Lady 3vols HB Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521830652, 9780521830669, 9780521830676",
+    "volume_titles": "Correspondence with Lady Bradshaigh & Lady Echlin | Correspondence with Lady Bradshaigh & Lady Echlin | Correspondence with Lady Bradshaigh & Lady Echlin"
+  },
+  {
+    "set_isbn": "9781107154582",
+    "set_isbn_title": "The Cambridge History of the American Civil W 3vols HB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107148895, 9781107154537, 9781107154544",
+    "volume_titles": "The Cambridge History of the American Civil War | The Cambridge History of the American Civil War | The Cambridge History of the American Civil War"
   },
   {
     "set_isbn": "9781107165250",
@@ -4242,6 +4396,13 @@
     "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
   },
   {
+    "set_isbn": "9781107620568",
+    "set_isbn_title": "The Cambridge Edition of the Works of Jane Aust 8 Vols Set",
+    "volume_count": 8,
+    "associated_volumes": "9781107044166, 9781107620407, 9781107620414, 9781107620452, 9781107620469, 9781107620476, 9781107620483, 9781107620551",
+    "volume_titles": "Juvenilia | Later Manuscripts | Northanger Abbey | Persuasion | Emma | Mansfield Park | Pride & Prejudice | Sense & Sensibility"
+  },
+  {
     "set_isbn": "9781107625341",
     "set_isbn_title": "A Course in Mathematical Analysis 3 Vol Set",
     "volume_count": 3,
@@ -4249,11 +4410,25 @@
     "volume_titles": "A Course in Mathematical Analysis | A Course in Mathematical Analysis | A Course in Mathematical Analysis"
   },
   {
+    "set_isbn": "9781107628861",
+    "set_isbn_title": "Advances in Economics and Econometrics 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107627314, 9781107638105, 9781107674165",
+    "volume_titles": "Advances in Economics & Econometrics | Advances in Economics & Econometrics | Advances in Economics & Econometrics"
+  },
+  {
     "set_isbn": "9781107630017",
     "set_isbn_title": "The Cambridge History of Medieval Philosophy 2 Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781107675100, 9781107691919",
     "volume_titles": "The Cambridge History of Medieval Philosophy V1 | The Cambridge History of Medieval Philosophy V2"
+  },
+  {
+    "set_isbn": "9781107643222",
+    "set_isbn_title": "A History of Modern Aesthetics 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107038035, 9781107038042, 9781107038059",
+    "volume_titles": "A History of Modern Aesthetics | A History of Modern Aesthetics | A History of Modern Aesthetics"
   },
   {
     "set_isbn": "9781107643246",
@@ -4282,6 +4457,20 @@
     "volume_count": 2,
     "associated_volumes": "9781108011617, 9781108013345",
     "volume_titles": "The Second Part of the Chronicle of Peru | Travels of Pedro de Cieza de León A.D. 1532–50"
+  },
+  {
+    "set_isbn": "9781108021715",
+    "set_isbn_title": "The Naval History of Great Britain 6 Vols Set",
+    "volume_count": 6,
+    "associated_volumes": "9781108021654, 9781108021661, 9781108021678, 9781108021685, 9781108021692, 9781108021708",
+    "volume_titles": "The Naval History of Great Britain | The Naval History of Great Britain | The Naval History of Great Britain | The Naval History of Great Britain | The Naval History of Great Britain | The Naval History of Great Britain"
+  },
+  {
+    "set_isbn": "9781108029575",
+    "set_isbn_title": "The Commentary of Origen on S. John's Gospel 2vols PB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108029551, 9781108029568",
+    "volume_titles": "The Commentary of Origen on S. John's Gospel | The Commentary of Origen on S. John's Gospel"
   },
   {
     "set_isbn": "9781108036207",
@@ -4382,11 +4571,32 @@
     "volume_titles": "Equivalents of the Riemann Hypothesis V1 | Equivalents of the Riemann Hypothesis V2"
   },
   {
+    "set_isbn": "9781108303729",
+    "set_isbn_title": "Isokrates: The Forensic Speeches (Nos. 16-21 2 vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009100618, 9781009100625",
+    "volume_titles": "Isokrates: The Forensic Speeches (Nos. 16-21) | Isokrates: The Forensic Speeches (Nos. 16-21)"
+  },
+  {
+    "set_isbn": "9781108341271",
+    "set_isbn_title": "The Worlds of the Indian Ocean 2 vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108424561, 9781108424653",
+    "volume_titles": "The Worlds of the Indian Ocean | The Worlds of the Indian Ocean"
+  },
+  {
     "set_isbn": "9781108378406",
     "set_isbn_title": "International Commercial & Investment Arbitration 3v set",
     "volume_count": 3,
     "associated_volumes": "9781009187831, 9781108420136, 9781108420853",
     "volume_titles": "Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm | Cambridge Compendium of International Commercial & Investm"
+  },
+  {
+    "set_isbn": "9781108399579",
+    "set_isbn_title": "Rethinking Society for the 21st Century 3vols PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108436328, 9781108436335, 9781108436342",
+    "volume_titles": "Rethinking Society for the 21st Century | Rethinking Society for the 21st Century | Rethinking Society for the 21st Century"
   },
   {
     "set_isbn": "9781108399593",
@@ -4415,6 +4625,13 @@
     "volume_count": 4,
     "associated_volumes": "9781108419222, 9781108419239, 9781108419260, 9781108419277",
     "volume_titles": "The Cambridge History of America & the World | The Cambridge History of America & the World | The Cambridge History of America & the World | The Cambridge History of America & the World"
+  },
+  {
+    "set_isbn": "9781108423618",
+    "set_isbn_title": "The Roman Emperor and His Court c. 30 BC–c. A 2vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781316513217, 9781316513231",
+    "volume_titles": "The Roman Emperor & His Court c. 30 BC–c. AD 300 | The Roman Emperor & His Court c. 30 BC–c. AD 300"
   },
   {
     "set_isbn": "9781108429306",
@@ -4543,6 +4760,13 @@
     "volume_titles": "Series & Products in the Development of Mathematics | Series & Products in the Development of Mathematics"
   },
   {
+    "set_isbn": "9781108752657",
+    "set_isbn_title": "The Cambridge Global History of Fashion 2vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108495554, 9781108495561",
+    "volume_titles": "The Cambridge Global History of Fashion | The Cambridge Global History of Fashion"
+  },
+  {
     "set_isbn": "9781108753500",
     "set_isbn_title": "Roman Republican Coinage 2 Vols Set",
     "volume_count": 2,
@@ -4555,6 +4779,13 @@
     "volume_count": 3,
     "associated_volumes": "9781108486439, 9781108487078, 9781108493536",
     "volume_titles": "The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V1"
+  },
+  {
+    "set_isbn": "9781108781237",
+    "set_isbn_title": "The Cambridge History of Nationhood and Natio 2vols HB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108427050, 9781108427067",
+    "volume_titles": "The Cambridge History of Nationhood & Nationalism | The Cambridge History of Nationhood & Nationalism"
   },
   {
     "set_isbn": "9781108825627",
@@ -4625,6 +4856,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108984447, 9781108984454",
     "volume_titles": "Core Radiology | Core Radiology"
+  },
+  {
+    "set_isbn": "9781108966283",
+    "set_isbn_title": "The Cambridge Urban History of Europe 3vols HB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108834513, 9781108839266, 9781316518410",
+    "volume_titles": "The Cambridge Urban History of Europe | The Cambridge Urban History of Europe | The Cambridge Urban History of Europe"
   },
   {
     "set_isbn": "9781138014244",
@@ -5670,6 +5908,13 @@
     "volume_titles": "The Continental Drift Controversy: Wegener & the Early Deb | The Continental Drift Controversy: Paleomagnetism & Confir | The Continental Drift Controversy: Introduction of Seafloo | The Continental Drift Controversy: Evolution into Plate Te"
   },
   {
+    "set_isbn": "9781316616956",
+    "set_isbn_title": "The Cambridge Handbook of Cyber Behavior 2vols PB Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009057080, 9781009060783",
+    "volume_titles": "The Cambridge Handbook of Cyber Behavior | The Cambridge Handbook of Cyber Behavior"
+  },
+  {
     "set_isbn": "9781316617830",
     "set_isbn_title": "The Cambridge History of Ireland 4vol PB set",
     "volume_count": 4,
@@ -5682,6 +5927,13 @@
     "volume_count": 4,
     "associated_volumes": "9781107119116, 9781107120129, 9781107151567, 9781107156388",
     "volume_titles": "The Cambridge World History of Violence | The Cambridge World History of Violence | The Cambridge World History of Violence | The Cambridge World History of Violence"
+  },
+  {
+    "set_isbn": "9781316634578",
+    "set_isbn_title": "The Cambridge History of Communism 3vols PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107467361, 9781107590014, 9781316501597",
+    "volume_titles": "The Cambridge History of Communism | The Cambridge History of Communism | The Cambridge History of Communism"
   },
   {
     "set_isbn": "9781409413431",
