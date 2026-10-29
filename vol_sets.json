@@ -1526,6 +1526,13 @@
     "volume_titles": "Acta Numerica 2005 v14 | Acta Numerica 2002 v11 | Acta Numerica 2003 v12 | Acta Numerica 2004 v13 | Acta Numerica 2006 v15 | Acta Numerica 2007 | Acta Numerica 2008"
   },
   {
+    "set_isbn": "9780521179027",
+    "set_isbn_title": "The Correspondence of Alfred Marshall Econom 3vols PB Set",
+    "volume_count": 3,
+    "associated_volumes": "9780521023542, 9780521023559, 9780521023566",
+    "volume_titles": "The Correspondence of Alfred Marshall Economist | The Correspondence of Alfred Marshall Economist | The Correspondence of Alfred Marshall Economist"
+  },
+  {
     "set_isbn": "9780521196222",
     "set_isbn_title": "The Cambridge Edition of the Works of Anne Finc 2 Vols Set",
     "volume_count": 2,
@@ -4191,6 +4198,13 @@
     "volume_count": 4,
     "associated_volumes": "9781107022010, 9781107022027, 9781107022034, 9781107022041",
     "volume_titles": "Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews | Joseph Conrad: Contemporary Reviews"
+  },
+  {
+    "set_isbn": "9781107025899",
+    "set_isbn_title": "Bioethics Medicine and the Criminal Law 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107018259, 9781107021532, 9781107025127",
+    "volume_titles": "Bioethics Medicine & the Criminal Law | Bioethics Medicine & the Criminal Law | Bioethics Medicine & the Criminal Law"
   },
   {
     "set_isbn": "9781107029507",
