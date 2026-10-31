@@ -4396,6 +4396,13 @@
     "volume_titles": "The Cambridge History of British Theatre | The Cambridge History of British Theatre | The Cambridge History of British Theatre"
   },
   {
+    "set_isbn": "9781107535688",
+    "set_isbn_title": "Symplectic Topology and Floer Homology 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107072459, 9781107109674",
+    "volume_titles": "Symplectic Topology & Floer Homology | Symplectic Topology & Floer Homology"
+  },
+  {
     "set_isbn": "9781107558809",
     "set_isbn_title": "Cambridge History of Philosophy Late Antiquity 2 Vol Set",
     "volume_count": 2,
@@ -4403,11 +4410,25 @@
     "volume_titles": "The Cambridge History of Philosophy in Late Antiquity | The Cambridge History of Philosophy in Late Antiquity"
   },
   {
+    "set_isbn": "9781107584594",
+    "set_isbn_title": "The Cambridge History of Capitalism 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107583283, 9781107583351",
+    "volume_titles": "The Cambridge History of Capitalism | The Cambridge History of Capitalism"
+  },
+  {
     "set_isbn": "9781107602328",
     "set_isbn_title": "The Cambridge History of the Cold War 3 Vols Set",
     "volume_count": 3,
     "associated_volumes": "9781107602298, 9781107602304, 9781107602311",
     "volume_titles": "The Cambridge History of the Cold War | The Cambridge History of the Cold War | The Cambridge History of the Cold War"
+  },
+  {
+    "set_isbn": "9781107602533",
+    "set_isbn_title": "Stellar Evolution Physics 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107016569, 9781107016576",
+    "volume_titles": "Stellar Evolution Physics | Stellar Evolution Physics"
   },
   {
     "set_isbn": "9781107620568",
@@ -4618,6 +4639,13 @@
     "volume_count": 3,
     "associated_volumes": "9781108423120, 9781108423137, 9781108423144",
     "volume_titles": "Rethinking Society for the 21st Century V1 | Rethinking Society for the 21st Century V2 | Rethinking Society for the 21st Century V3"
+  },
+  {
+    "set_isbn": "9781108407809",
+    "set_isbn_title": "The Cambridge History of the Second World War 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108406383, 9781108406406, 9781108406413",
+    "volume_titles": "The Cambridge History of the Second World War | The Cambridge History of the Second World War | The Cambridge History of the Second World War"
   },
   {
     "set_isbn": "9781108407816",
