@@ -2051,6 +2051,13 @@
     "volume_titles": "The Cambridge History of Arthurian Literature & Culture Vol 1 | The Cambridge History of Arthurian Literature & Culture Vol 2"
   },
   {
+    "set_isbn": "9781009047777",
+    "set_isbn_title": "Explorations in Ancient and Modern Philosophy 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781316517932, 9781316517949",
+    "volume_titles": "Explorations in Ancient & Modern Philosophy | Explorations in Ancient & Modern Philosophy"
+  },
+  {
     "set_isbn": "9781009202022",
     "set_isbn_title": "New Cambridge History of the English Language 7 Vols Set",
     "volume_count": 7,
@@ -4193,6 +4200,13 @@
     "volume_titles": "Advances in Economics & Econometrics | Advances in Economics & Econometrics | Advances in Economics & Econometrics"
   },
   {
+    "set_isbn": "9781107019171",
+    "set_isbn_title": "The Cambridge Edition of the Poems of Rudyard K 3 Vols Set",
+    "volume_count": 3,
+    "associated_volumes": "9781107019140, 9781107019157, 9781107019164",
+    "volume_titles": "The Cambridge Edition of the Poems of Rudyard Kipling | The Cambridge Edition of the Poems of Rudyard Kipling | The Cambridge Edition of the Poems of Rudyard Kipling"
+  },
+  {
     "set_isbn": "9781107022058",
     "set_isbn_title": "Joseph Conrad: Contemporary Reviews 4 Vol Set",
     "volume_count": 4,
@@ -4340,6 +4354,13 @@
     "volume_titles": "The Cambridge History of the American Civil War | The Cambridge History of the American Civil War | The Cambridge History of the American Civil War"
   },
   {
+    "set_isbn": "9781107162631",
+    "set_isbn_title": "Introduction to Banach Spaces: Analysis and Pro 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781107160514, 9781107162624",
+    "volume_titles": "Introduction to Banach Spaces: Analysis & Probability | Introduction to Banach Spaces: Analysis & Probability"
+  },
+  {
     "set_isbn": "9781107165250",
     "set_isbn_title": "The Cambridge Handbook of Cyber Behavior 2vol HB Set",
     "volume_count": 2,
@@ -4431,6 +4452,13 @@
     "volume_titles": "Stellar Evolution Physics | Stellar Evolution Physics"
   },
   {
+    "set_isbn": "9781107610767",
+    "set_isbn_title": "Centennial History of the Carnegie Institution 5 Vols Set",
+    "volume_count": 5,
+    "associated_volumes": "9781107412392, 9781107412408, 9781107412415, 9781107412422, 9781107412453",
+    "volume_titles": "Hist Carnegie Inst Washington v1 | Hist Carnegie Inst Washington v3 | Hist Carnegie Inst Washington v4 | Hist Carnegie Inst Washington v5 | Centennial History of the Carnegie Institution of Washingt"
+  },
+  {
     "set_isbn": "9781107620568",
     "set_isbn_title": "The Cambridge Edition of the Works of Jane Aust 8 Vols Set",
     "volume_count": 8,
@@ -4485,6 +4513,13 @@
     "volume_count": 3,
     "associated_volumes": "9781107650183, 9781107683709, 9781107693692",
     "volume_titles": "The Cambridge History of Libraries in Britain & Ireland | The Cambridge History of Libraries in Britain & Ireland | The Cambridge History of Libraries in Britain & Ireland"
+  },
+  {
+    "set_isbn": "9781108004015",
+    "set_isbn_title": "Journal 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108003919, 9781108003926",
+    "volume_titles": "Journal | Journal"
   },
   {
     "set_isbn": "9781108011624",
@@ -4653,6 +4688,13 @@
     "volume_count": 9,
     "associated_volumes": "9781108406420, 9781108407649, 9781108407694, 9781108407717, 9781108407724, 9781108407731, 9781108407748, 9781108407755, 9781108407762",
     "volume_titles": "The Cambridge World History V1 | The Cambridge World History V2 | The Cambridge World History V3 | The Cambridge World History V4 | The Cambridge World History V5 | The Cambridge World History V6.1 | The Cambridge World History V6.2 | The Cambridge World History V7.1 | The Cambridge World History V7.2"
+  },
+  {
+    "set_isbn": "9781108414067",
+    "set_isbn_title": "Polynomials and the mod 2 Steenrod Algebra 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108414456, 9781108414487",
+    "volume_titles": "Polynomials & the mod 2 Steenrod Algebra | Polynomials & the mod 2 Steenrod Algebra"
   },
   {
     "set_isbn": "9781108415088",
@@ -4828,6 +4870,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108427050, 9781108427067",
     "volume_titles": "The Cambridge History of Nationhood & Nationalism | The Cambridge History of Nationhood & Nationalism"
+  },
+  {
+    "set_isbn": "9781108785495",
+    "set_isbn_title": "Integrable Systems and Algebraic Geometry 2 Vols Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108715744, 9781108715775",
+    "volume_titles": "Integrable Systems & Algebraic Geometry | Integrable Systems & Algebraic Geometry"
   },
   {
     "set_isbn": "9781108825627",
