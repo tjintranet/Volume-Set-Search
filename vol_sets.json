@@ -2814,6 +2814,13 @@
     "volume_titles": "Human Factors in Simulation & Training Vol 2 | Human Factors in Simulation & Training Vol 1"
   },
   {
+    "set_isbn": "9781032519388",
+    "set_isbn_title": "Introduction to Data Science 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032116556, 9781032419862",
+    "volume_titles": "Introduction to Data Science Vol 1 | Introduction to Data Science Vol 2"
+  },
+  {
     "set_isbn": "9781032528588",
     "set_isbn_title": "Target Tracking by Airborne Radar Systems 2 Volume Set",
     "volume_count": 2,
@@ -6895,11 +6902,32 @@
     "volume_titles": "Cellular and Molecular Mechanisms in Alzheimers Volume 1 | Cellular and Molecular Mechanisms in Alzheimers Volume 2"
   },
   {
+    "set_isbn": "9781779642349",
+    "set_isbn_title": "Natural Products to Emerging Technologies 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779642356, 9781779642370",
+    "volume_titles": "Modern Advances in Secondary Metabolites From Natural Prod | Modern Advances in Secondary Metabolites From Natural Prod"
+  },
+  {
+    "set_isbn": "9781779642516",
+    "set_isbn_title": "Nanotechnology in Fisheries and Aquaculture 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779642479, 9781779642493",
+    "volume_titles": "Nanotechnology in Fisheries & Aquaculture | Nanotechnology in Fisheries & Aquaculture"
+  },
+  {
     "set_isbn": "9781779644268",
     "set_isbn_title": "Insect-Plant Interactions Two Volume Set",
     "volume_count": 2,
     "associated_volumes": "9781779644275, 9781779644299",
     "volume_titles": "Insect-Plant Interactions Vol 1 | Insect-Plant Interactions Vol 2"
+  },
+  {
+    "set_isbn": "9781779644473",
+    "set_isbn_title": "Biotechnological Approaches in Vegetable Crops 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779644480, 9781779644503",
+    "volume_titles": "Biotechnological Approaches in Vegetable Crops | Biotechnological Approaches in Vegetable Crops"
   },
   {
     "set_isbn": "9781782204633",
