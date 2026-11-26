@@ -3234,6 +3234,13 @@
     "volume_titles": "Equipment Intelligent Operation & Maintenance | Equipment Intelligent Operation & Maintenance"
   },
   {
+    "set_isbn": "9781032750460",
+    "set_isbn_title": "Anatomy and Dissection in 19th-Century Britain Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781041402220, 9781041402237, 9781041402244",
+    "volume_titles": "Anatomy & Dissection in Nineteenth-Century Britain - Vol 1 | Anatomy & Dissection in Nineteenth-Century Britain - Vol 2 | Anatomy & Dissection in Nineteenth-Century Britain - Vol 3"
+  },
+  {
     "set_isbn": "9781032750842",
     "set_isbn_title": "Human-Computer Interaction Vol Set",
     "volume_count": 6,
